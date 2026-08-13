@@ -1,0 +1,313 @@
+{
+  "items": [
+    {
+      "description": "The authoritative source for everything Claude - directly from Anthropic",
+      "items": [],
+      "title": "🏢 Official Anthropic Resources"
+    },
+    {
+      "description": "Official Client SDKs - Full feature parity: messages, tools, streaming, caching, computer use.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "anthropic-sdk-python",
+          "description": "Python SDK with async support and type hints.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T15:55:44Z",
+            "owner": "anthropics",
+            "repo": "anthropic-sdk-python",
+            "stars": 3813
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "anthropic-sdk-typescript",
+          "description": "TypeScript/JavaScript SDK for Node.js and browsers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T15:54:53Z",
+            "owner": "anthropics",
+            "repo": "anthropic-sdk-typescript",
+            "stars": 2078
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "anthropic-sdk-go",
+          "description": "Go SDK with idiomatic design.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T15:55:39Z",
+            "owner": "anthropics",
+            "repo": "anthropic-sdk-go",
+            "stars": 1173
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "anthropic-sdk-ruby",
+          "description": "Ruby SDK.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-11T20:34:42Z",
+            "owner": "anthropics",
+            "repo": "anthropic-sdk-ruby",
+            "stars": 363
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "anthropic-sdk-java",
+          "description": "Java/Kotlin SDK with modern features.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-12T15:55:34Z",
+            "owner": "anthropics",
+            "repo": "anthropic-sdk-java",
+            "stars": 361
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "anthropic-sdk-csharp",
+          "description": "C#/.NET SDK (Beta).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-11T20:37:48Z",
+            "owner": "anthropics",
+            "repo": "anthropic-sdk-csharp",
+            "stars": 316
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "anthropic-sdk-php",
+          "description": "PHP SDK (Beta).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-11T19:32:40Z",
+            "owner": "anthropics",
+            "repo": "anthropic-sdk-php",
+            "stars": 175
+          }
+        }
+      ],
+      "title": "🔧 SDKs & Development Tools"
+    },
+    {
+      "description": "Anthropic's agentic coding platform and open extension standard",
+      "items": [],
+      "title": "🛠️ Claude Code & Model Context Protocol (MCP)"
+    },
+    {
+      "description": "Awesome lists and collections maintained by the community",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "punkpeye/awesome-mcp-servers",
+          "description": "Curated list of Model Context Protocol (MCP) servers for extending Claude's capabilities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-03T03:09:55Z",
+            "owner": "punkpeye",
+            "repo": "awesome-mcp-servers",
+            "stars": 92186
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hesreallyhim/awesome-claude-code",
+          "description": "Slash-commands, CLAUDE.md files, CLI tools, and workflows for Claude Code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T03:47:44Z",
+            "owner": "hesreallyhim",
+            "repo": "awesome-claude-code",
+            "stars": 52222
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VoltAgent/awesome-claude-code-subagents",
+          "description": "100+ specialized AI agents for full-stack development maintained by the community.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-12T13:34:46Z",
+            "owner": "VoltAgent",
+            "repo": "awesome-claude-code-subagents",
+            "stars": 24255
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "travisvn/awesome-claude-skills",
+          "description": "Resources and tools for customizing AI workflows with Claude Skills.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-28T19:30:24Z",
+            "owner": "travisvn",
+            "repo": "awesome-claude-skills",
+            "stars": 14624
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BehiSecc/awesome-claude-skills",
+          "description": "Categorized skills for document handling, development tools, data analysis, and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-02T11:06:52Z",
+            "owner": "BehiSecc",
+            "repo": "awesome-claude-skills",
+            "stars": 9949
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "langgptai/awesome-claude-prompts",
+          "description": "Collection of prompt examples designed to improve Claude interactions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-02-28T01:53:30Z",
+            "owner": "langgptai",
+            "repo": "awesome-claude-prompts",
+            "stars": 5401
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vijaythecoder/awesome-claude-agents",
+          "description": "Team of specialized AI agents for building features and debugging.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-10-30T00:06:52Z",
+            "owner": "vijaythecoder",
+            "repo": "awesome-claude-agents",
+            "stars": 4379
+          }
+        }
+      ],
+      "title": "⭐ Community Curated Lists"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🧩 Extensions & Integrations"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Claude Code Chat",
+          "description": "Beautiful native chat interface for Claude Code within VS Code with conversation history and MCP support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-24T10:07:34Z",
+            "owner": "andrepimenta",
+            "repo": "claude-code-chat",
+            "stars": 1076
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Claude Code Theme",
+          "description": "Claude-inspired VS Code theme pack with dark/light/high-contrast and brand variants, semantic token tuning, and ANSI-optimized terminal colors.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-06T02:38:42Z",
+            "owner": "ashwingopalsamy",
+            "repo": "claude-code-theme",
+            "stars": 15
+          }
+        }
+      ],
+      "title": "🎨 IDE Extensions"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "💻 Applications"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "📚 Educational Resources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "40+ Claude Code Tips",
+          "description": "Tips for getting the most out of Claude Code, including a custom status line script, cutting the system prompt in half, using Gemini CLI as Claude Code's minion, and Claude Code running itself in a container. Also includes the dx plugin for GitHub Actions debugging, conversation cloning, and handoffs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-06T01:26:59Z",
+            "owner": "ykdojo",
+            "repo": "claude-code-tips",
+            "stars": 9609
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Claude Code Everything You Need to Know",
+          "description": "Ultimate all-in-one guide to mastering Claude Code. Covers setup, prompt engineering, commands, hooks, workflows, automation, integrations, MCP servers, and the BMAD method.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-28T11:00:38Z",
+            "owner": "wesammustafa",
+            "repo": "Claude-Code-Everything-You-Need-to-Know",
+            "stars": 2638
+          }
+        }
+      ],
+      "title": "📖 Community Guides"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T05:51:43.143Z",
+    "original_repository": "webfuse-com/awesome-claude",
+    "original_repository_sha": "3272155bb862bf5d06a44d9b26568778958ed282",
+    "enhanced_repository": "enhansome/enhansome-claude",
+    "enhanced_repository_description": null,
+    "title": "Awesome Claude with stars"
+  }
+}
