@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T13:47:38Z",
+            "last_commit": "2026-08-17T23:32:55Z",
             "owner": "anthropics",
             "repo": "anthropic-sdk-python",
-            "stars": 3826
+            "stars": 3830
           }
         },
         {
@@ -30,10 +30,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T22:42:36Z",
+            "last_commit": "2026-08-17T20:49:00Z",
             "owner": "anthropics",
             "repo": "anthropic-sdk-typescript",
-            "stars": 2087
+            "stars": 2091
           }
         },
         {
@@ -44,24 +44,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T22:42:40Z",
+            "last_commit": "2026-08-17T19:37:59Z",
             "owner": "anthropics",
             "repo": "anthropic-sdk-go",
             "stars": 1176
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "anthropic-sdk-ruby",
-          "description": "Ruby SDK.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2026-08-14T22:42:48Z",
-            "owner": "anthropics",
-            "repo": "anthropic-sdk-ruby",
-            "stars": 365
           }
         },
         {
@@ -72,10 +58,24 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-14T22:42:35Z",
+            "last_commit": "2026-08-17T20:13:37Z",
             "owner": "anthropics",
             "repo": "anthropic-sdk-java",
-            "stars": 363
+            "stars": 365
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "anthropic-sdk-ruby",
+          "description": "Ruby SDK.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-17T20:52:53Z",
+            "owner": "anthropics",
+            "repo": "anthropic-sdk-ruby",
+            "stars": 365
           }
         },
         {
@@ -86,10 +86,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-14T22:44:56Z",
+            "last_commit": "2026-08-17T19:39:15Z",
             "owner": "anthropics",
             "repo": "anthropic-sdk-csharp",
-            "stars": 316
+            "stars": 317
           }
         },
         {
@@ -100,7 +100,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-14T22:42:21Z",
+            "last_commit": "2026-08-17T19:37:52Z",
             "owner": "anthropics",
             "repo": "anthropic-sdk-php",
             "stars": 175
@@ -125,10 +125,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-08-03T03:09:55Z",
+            "last_commit": "2026-08-17T21:28:42Z",
             "owner": "punkpeye",
             "repo": "awesome-mcp-servers",
-            "stars": 92456
+            "stars": 92497
           }
         },
         {
@@ -139,10 +139,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T03:20:18Z",
+            "last_commit": "2026-08-18T03:18:19Z",
             "owner": "hesreallyhim",
             "repo": "awesome-claude-code",
-            "stars": 52442
+            "stars": 52511
           }
         },
         {
@@ -156,7 +156,7 @@
             "last_commit": "2026-08-12T13:34:46Z",
             "owner": "VoltAgent",
             "repo": "awesome-claude-code-subagents",
-            "stars": 24385
+            "stars": 24418
           }
         },
         {
@@ -170,7 +170,7 @@
             "last_commit": "2026-04-28T19:30:24Z",
             "owner": "travisvn",
             "repo": "awesome-claude-skills",
-            "stars": 14675
+            "stars": 14695
           }
         },
         {
@@ -184,7 +184,7 @@
             "last_commit": "2026-08-02T11:06:52Z",
             "owner": "BehiSecc",
             "repo": "awesome-claude-skills",
-            "stars": 9973
+            "stars": 9994
           }
         },
         {
@@ -198,7 +198,7 @@
             "last_commit": "2026-02-28T01:53:30Z",
             "owner": "langgptai",
             "repo": "awesome-claude-prompts",
-            "stars": 5411
+            "stars": 5416
           }
         },
         {
@@ -212,7 +212,7 @@
             "last_commit": "2025-10-30T00:06:52Z",
             "owner": "vijaythecoder",
             "repo": "awesome-claude-agents",
-            "stars": 4383
+            "stars": 4385
           }
         }
       ],
@@ -237,7 +237,7 @@
             "last_commit": "2026-06-24T10:07:34Z",
             "owner": "andrepimenta",
             "repo": "claude-code-chat",
-            "stars": 1079
+            "stars": 1077
           }
         },
         {
@@ -281,7 +281,7 @@
             "last_commit": "2026-08-17T02:04:11Z",
             "owner": "ykdojo",
             "repo": "claude-code-tips",
-            "stars": 9693
+            "stars": 9765
           }
         },
         {
@@ -295,7 +295,7 @@
             "last_commit": "2026-07-28T11:00:38Z",
             "owner": "wesammustafa",
             "repo": "Claude-Code-Everything-You-Need-to-Know",
-            "stars": 2649
+            "stars": 2658
           }
         }
       ],
@@ -303,7 +303,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T05:01:33.115Z",
+    "last_updated": "2026-08-18T04:55:03.631Z",
     "original_repository": "webfuse-com/awesome-claude",
     "original_repository_sha": "3272155bb862bf5d06a44d9b26568778958ed282",
     "enhanced_repository": "enhansome/enhansome-claude",
