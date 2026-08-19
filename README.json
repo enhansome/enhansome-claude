@@ -2,117 +2,181 @@
   "items": [
     {
       "description": "The authoritative source for everything Claude - directly from Anthropic",
-      "items": [],
-      "title": "🏢 Official Anthropic Resources"
-    },
-    {
-      "description": "Official Client SDKs - Full feature parity: messages, tools, streaming, caching, computer use.",
       "items": [
         {
-          "node_type": "item",
-          "title": "anthropic-sdk-python",
-          "description": "Python SDK with async support and type hints.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T20:38:10Z",
-            "owner": "anthropics",
-            "repo": "anthropic-sdk-python",
-            "stars": 3834
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "anthropic-sdk-typescript",
-          "description": "TypeScript/JavaScript SDK for Node.js and browsers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T17:53:37Z",
-            "owner": "anthropics",
-            "repo": "anthropic-sdk-typescript",
-            "stars": 2091
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "anthropic-sdk-go",
-          "description": "Go SDK with idiomatic design.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T21:10:32Z",
-            "owner": "anthropics",
-            "repo": "anthropic-sdk-go",
-            "stars": 1177
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "anthropic-sdk-java",
-          "description": "Java/Kotlin SDK with modern features.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-08-18T17:53:35Z",
-            "owner": "anthropics",
-            "repo": "anthropic-sdk-java",
-            "stars": 365
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "anthropic-sdk-ruby",
-          "description": "Ruby SDK.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2026-08-18T17:53:58Z",
-            "owner": "anthropics",
-            "repo": "anthropic-sdk-ruby",
-            "stars": 365
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "anthropic-sdk-csharp",
-          "description": "C#/.NET SDK (Beta).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-08-18T17:55:54Z",
-            "owner": "anthropics",
-            "repo": "anthropic-sdk-csharp",
-            "stars": 318
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "anthropic-sdk-php",
-          "description": "PHP SDK (Beta).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-08-18T20:36:42Z",
-            "owner": "anthropics",
-            "repo": "anthropic-sdk-php",
-            "stars": 175
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "anthropic-sdk-python",
+              "description": "Python SDK with async support and type hints.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 590187800,
+                "language": "Python",
+                "last_commit": "2026-08-18T20:38:10Z",
+                "owner": "anthropics",
+                "repo": "anthropic-sdk-python",
+                "stars": 3835
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "anthropic-sdk-typescript",
+              "description": "TypeScript/JavaScript SDK for Node.js and browsers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 595176353,
+                "language": "TypeScript",
+                "last_commit": "2026-08-18T17:53:37Z",
+                "owner": "anthropics",
+                "repo": "anthropic-sdk-typescript",
+                "stars": 2092
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "anthropic-sdk-go",
+              "description": "Go SDK with idiomatic design.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 835501107,
+                "language": "Go",
+                "last_commit": "2026-08-18T21:10:32Z",
+                "owner": "anthropics",
+                "repo": "anthropic-sdk-go",
+                "stars": 1177
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "anthropic-sdk-java",
+              "description": "Java/Kotlin SDK with modern features.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 894206832,
+                "language": "Kotlin",
+                "last_commit": "2026-08-18T17:53:35Z",
+                "owner": "anthropics",
+                "repo": "anthropic-sdk-java",
+                "stars": 365
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "anthropic-sdk-ruby",
+              "description": "Ruby SDK.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 944225883,
+                "language": "Ruby",
+                "last_commit": "2026-08-18T17:53:58Z",
+                "owner": "anthropics",
+                "repo": "anthropic-sdk-ruby",
+                "stars": 365
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "anthropic-sdk-csharp",
+              "description": "C#/.NET SDK (Beta).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1044588509,
+                "language": "C#",
+                "last_commit": "2026-08-18T17:55:54Z",
+                "owner": "anthropics",
+                "repo": "anthropic-sdk-csharp",
+                "stars": 318
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "anthropic-sdk-php",
+              "description": "PHP SDK (Beta).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1044588287,
+                "language": "PHP",
+                "last_commit": "2026-08-18T20:36:42Z",
+                "owner": "anthropics",
+                "repo": "anthropic-sdk-php",
+                "stars": 175
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "claude-agent-sdk-python",
+              "description": "Python Agent SDK. Docs",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1000486904,
+                "language": "Python",
+                "last_commit": "2026-08-18T20:58:33Z",
+                "owner": "anthropics",
+                "repo": "claude-agent-sdk-python",
+                "stars": 7934
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "claude-agent-sdk-typescript",
+              "description": "TypeScript Agent SDK.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1065482259,
+                "language": "Shell",
+                "last_commit": "2026-08-18T20:39:09Z",
+                "owner": "anthropics",
+                "repo": "claude-agent-sdk-typescript",
+                "stars": 1705
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Claude Cookbook",
+              "description": "Official notebooks and recipes for common patterns (RAG, tool use, Skills, MCP).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 678973052,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-08-14T20:50:15Z",
+                "owner": "anthropics",
+                "repo": "claude-cookbooks",
+                "stars": 51841
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Claude Quickstarts",
+              "description": "Ready-to-deploy example apps.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 849553306,
+                "language": "TypeScript",
+                "last_commit": "2026-08-06T17:17:51Z",
+                "owner": "anthropics",
+                "repo": "claude-quickstarts",
+                "stars": 17461
+              }
+            }
+          ],
+          "description": "Official Client SDKs - Full feature parity: messages, tools, streaming, caching, computer use.\nAgent SDKs - Build custom autonomous agents with Claude Code capabilities.\nStarters",
+          "node_type": "group",
+          "title": "🔧 SDKs & Development Tools"
         }
       ],
-      "title": "🔧 SDKs & Development Tools"
-    },
-    {
-      "description": "Anthropic's agentic coding platform and open extension standard",
-      "items": [],
-      "title": "🛠️ Claude Code & Model Context Protocol (MCP)"
+      "title": "🏢 Official Anthropic Resources"
     },
     {
       "description": "Awesome lists and collections maintained by the community",
@@ -124,11 +188,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 896335270,
             "language": null,
             "last_commit": "2026-08-17T21:28:42Z",
             "owner": "punkpeye",
             "repo": "awesome-mcp-servers",
-            "stars": 92546
+            "stars": 92564
           }
         },
         {
@@ -138,11 +203,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 969302809,
             "language": "Python",
-            "last_commit": "2026-08-19T03:19:22Z",
+            "last_commit": "2026-08-19T12:08:31Z",
             "owner": "hesreallyhim",
             "repo": "awesome-claude-code",
-            "stars": 52592
+            "stars": 52610
           }
         },
         {
@@ -152,11 +218,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1029036679,
             "language": "Shell",
             "last_commit": "2026-08-12T13:34:46Z",
             "owner": "VoltAgent",
             "repo": "awesome-claude-code-subagents",
-            "stars": 24451
+            "stars": 24456
           }
         },
         {
@@ -166,6 +233,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1077850011,
             "language": null,
             "last_commit": "2026-04-28T19:30:24Z",
             "owner": "travisvn",
@@ -180,11 +248,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1078332194,
             "language": null,
             "last_commit": "2026-08-02T11:06:52Z",
             "owner": "BehiSecc",
             "repo": "awesome-claude-skills",
-            "stars": 10010
+            "stars": 10013
           }
         },
         {
@@ -194,11 +263,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 665340930,
             "language": null,
             "last_commit": "2026-02-28T01:53:30Z",
             "owner": "langgptai",
             "repo": "awesome-claude-prompts",
-            "stars": 5421
+            "stars": 5420
           }
         },
         {
@@ -208,103 +278,108 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1026819254,
             "language": null,
             "last_commit": "2025-10-30T00:06:52Z",
             "owner": "vijaythecoder",
             "repo": "awesome-claude-agents",
-            "stars": 4386
+            "stars": 4385
           }
         }
       ],
       "title": "⭐ Community Curated Lists"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Claude Code Chat",
+              "description": "Beautiful native chat interface for Claude Code within VS Code with conversation history and MCP support.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1003106157,
+                "language": "JavaScript",
+                "last_commit": "2026-06-24T10:07:34Z",
+                "owner": "andrepimenta",
+                "repo": "claude-code-chat",
+                "stars": 1077
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Claude Code Theme",
+              "description": "Claude-inspired VS Code theme pack with dark/light/high-contrast and brand variants, semantic token tuning, and ANSI-optimized terminal colors.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1154110906,
+                "language": "TypeScript",
+                "last_commit": "2026-04-06T02:38:42Z",
+                "owner": "ashwingopalsamy",
+                "repo": "claude-code-theme",
+                "stars": 16
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "🎨 IDE Extensions"
+        }
+      ],
       "title": "🧩 Extensions & Integrations"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Claude Code Chat",
-          "description": "Beautiful native chat interface for Claude Code within VS Code with conversation history and MCP support.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-06-24T10:07:34Z",
-            "owner": "andrepimenta",
-            "repo": "claude-code-chat",
-            "stars": 1077
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Claude Code Theme",
-          "description": "Claude-inspired VS Code theme pack with dark/light/high-contrast and brand variants, semantic token tuning, and ANSI-optimized terminal colors.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-04-06T02:38:42Z",
-            "owner": "ashwingopalsamy",
-            "repo": "claude-code-theme",
-            "stars": 16
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "40+ Claude Code Tips",
+              "description": "Tips for getting the most out of Claude Code, including a custom status line script, cutting the system prompt in half, using Gemini CLI as Claude Code's minion, and Claude Code running itself in a container. Also includes the dx plugin for GitHub Actions debugging, conversation cloning, and handoffs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1105657641,
+                "language": "HTML",
+                "last_commit": "2026-08-17T02:04:11Z",
+                "owner": "ykdojo",
+                "repo": "claude-code-tips",
+                "stars": 9802
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Claude Code Everything You Need to Know",
+              "description": "Ultimate all-in-one guide to mastering Claude Code. Covers setup, prompt engineering, commands, hooks, workflows, automation, integrations, MCP servers, and the BMAD method.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1039579222,
+                "language": "Python",
+                "last_commit": "2026-07-28T11:00:38Z",
+                "owner": "wesammustafa",
+                "repo": "Claude-Code-Everything-You-Need-to-Know",
+                "stars": 2668
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "📖 Community Guides"
         }
       ],
-      "title": "🎨 IDE Extensions"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "💻 Applications"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "📚 Educational Resources"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "40+ Claude Code Tips",
-          "description": "Tips for getting the most out of Claude Code, including a custom status line script, cutting the system prompt in half, using Gemini CLI as Claude Code's minion, and Claude Code running itself in a container. Also includes the dx plugin for GitHub Actions debugging, conversation cloning, and handoffs.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2026-08-17T02:04:11Z",
-            "owner": "ykdojo",
-            "repo": "claude-code-tips",
-            "stars": 9799
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Claude Code Everything You Need to Know",
-          "description": "Ultimate all-in-one guide to mastering Claude Code. Covers setup, prompt engineering, commands, hooks, workflows, automation, integrations, MCP servers, and the BMAD method.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-28T11:00:38Z",
-            "owner": "wesammustafa",
-            "repo": "Claude-Code-Everything-You-Need-to-Know",
-            "stars": 2666
-          }
-        }
-      ],
-      "title": "📖 Community Guides"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T04:54:43.451Z",
+    "last_updated": "2026-08-19T12:20:30.876Z",
     "original_repository": "webfuse-com/awesome-claude",
+    "original_repository_id": 1037882481,
     "original_repository_sha": "3272155bb862bf5d06a44d9b26568778958ed282",
     "enhanced_repository": "enhansome/enhansome-claude",
     "enhanced_repository_description": null,
