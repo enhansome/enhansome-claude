@@ -122,7 +122,7 @@
                 "last_commit": "2026-08-23T00:53:03Z",
                 "owner": "anthropics",
                 "repo": "claude-agent-sdk-python",
-                "stars": 7961
+                "stars": 7965
               }
             },
             {
@@ -137,7 +137,7 @@
                 "last_commit": "2026-08-23T00:52:19Z",
                 "owner": "anthropics",
                 "repo": "claude-agent-sdk-typescript",
-                "stars": 1718
+                "stars": 1719
               }
             },
             {
@@ -152,7 +152,7 @@
                 "last_commit": "2026-08-19T20:42:54Z",
                 "owner": "anthropics",
                 "repo": "claude-cookbooks",
-                "stars": 52056
+                "stars": 52080
               }
             },
             {
@@ -167,7 +167,7 @@
                 "last_commit": "2026-08-21T16:49:16Z",
                 "owner": "anthropics",
                 "repo": "claude-quickstarts",
-                "stars": 17519
+                "stars": 17521
               }
             }
           ],
@@ -193,7 +193,7 @@
             "last_commit": "2026-08-17T21:28:42Z",
             "owner": "punkpeye",
             "repo": "awesome-mcp-servers",
-            "stars": 92727
+            "stars": 92738
           }
         },
         {
@@ -205,10 +205,10 @@
             "archived": false,
             "id": 969302809,
             "language": "Python",
-            "last_commit": "2026-08-24T03:22:36Z",
+            "last_commit": "2026-08-24T12:09:28Z",
             "owner": "hesreallyhim",
             "repo": "awesome-claude-code",
-            "stars": 52891
+            "stars": 52911
           }
         },
         {
@@ -223,7 +223,7 @@
             "last_commit": "2026-08-12T13:34:46Z",
             "owner": "VoltAgent",
             "repo": "awesome-claude-code-subagents",
-            "stars": 24579
+            "stars": 24598
           }
         },
         {
@@ -238,7 +238,7 @@
             "last_commit": "2026-04-28T19:30:24Z",
             "owner": "travisvn",
             "repo": "awesome-claude-skills",
-            "stars": 14790
+            "stars": 14800
           }
         },
         {
@@ -253,7 +253,7 @@
             "last_commit": "2026-08-02T11:06:52Z",
             "owner": "BehiSecc",
             "repo": "awesome-claude-skills",
-            "stars": 10050
+            "stars": 10053
           }
         },
         {
@@ -268,7 +268,7 @@
             "last_commit": "2026-02-28T01:53:30Z",
             "owner": "langgptai",
             "repo": "awesome-claude-prompts",
-            "stars": 5440
+            "stars": 5442
           }
         },
         {
@@ -306,7 +306,7 @@
                 "last_commit": "2026-06-24T10:07:34Z",
                 "owner": "andrepimenta",
                 "repo": "claude-code-chat",
-                "stars": 1079
+                "stars": 1081
               }
             },
             {
@@ -321,7 +321,7 @@
                 "last_commit": "2026-08-23T17:23:38Z",
                 "owner": "ashwingopalsamy",
                 "repo": "claude-code-theme",
-                "stars": 17
+                "stars": 18
               }
             }
           ],
@@ -349,7 +349,7 @@
                 "last_commit": "2026-08-23T16:41:42Z",
                 "owner": "ykdojo",
                 "repo": "claude-code-tips",
-                "stars": 9867
+                "stars": 9877
               }
             },
             {
@@ -364,7 +364,7 @@
                 "last_commit": "2026-07-28T11:00:38Z",
                 "owner": "wesammustafa",
                 "repo": "Claude-Code-Everything-You-Need-to-Know",
-                "stars": 2682
+                "stars": 2683
               }
             }
           ],
@@ -377,7 +377,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T05:05:17.213Z",
+    "last_updated": "2026-08-24T14:10:01.084Z",
     "original_repository": "webfuse-com/awesome-claude",
     "original_repository_id": 1037882481,
     "original_repository_sha": "3272155bb862bf5d06a44d9b26568778958ed282",
