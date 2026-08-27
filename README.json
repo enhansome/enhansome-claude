@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-27T00:39:17Z",
                 "owner": "anthropics",
                 "repo": "anthropic-sdk-typescript",
-                "stars": 2097
+                "stars": 2098
               }
             },
             {
@@ -152,7 +152,7 @@
                 "last_commit": "2026-08-19T20:42:54Z",
                 "owner": "anthropics",
                 "repo": "claude-cookbooks",
-                "stars": 52189
+                "stars": 52192
               }
             },
             {
@@ -167,7 +167,7 @@
                 "last_commit": "2026-08-25T14:48:13Z",
                 "owner": "anthropics",
                 "repo": "claude-quickstarts",
-                "stars": 17527
+                "stars": 17533
               }
             }
           ],
@@ -193,7 +193,7 @@
             "last_commit": "2026-08-26T20:37:13Z",
             "owner": "punkpeye",
             "repo": "awesome-mcp-servers",
-            "stars": 92872
+            "stars": 92882
           }
         },
         {
@@ -208,7 +208,7 @@
             "last_commit": "2026-08-27T09:07:04Z",
             "owner": "hesreallyhim",
             "repo": "awesome-claude-code",
-            "stars": 53066
+            "stars": 53075
           }
         },
         {
@@ -223,7 +223,7 @@
             "last_commit": "2026-08-12T13:34:46Z",
             "owner": "VoltAgent",
             "repo": "awesome-claude-code-subagents",
-            "stars": 24668
+            "stars": 24674
           }
         },
         {
@@ -306,7 +306,7 @@
                 "last_commit": "2026-06-24T10:07:34Z",
                 "owner": "andrepimenta",
                 "repo": "claude-code-chat",
-                "stars": 1081
+                "stars": 1082
               }
             },
             {
@@ -349,7 +349,7 @@
                 "last_commit": "2026-08-25T17:10:32Z",
                 "owner": "ykdojo",
                 "repo": "claude-code-tips",
-                "stars": 9957
+                "stars": 9956
               }
             },
             {
@@ -364,7 +364,7 @@
                 "last_commit": "2026-07-28T11:00:38Z",
                 "owner": "wesammustafa",
                 "repo": "Claude-Code-Everything-You-Need-to-Know",
-                "stars": 2692
+                "stars": 2693
               }
             }
           ],
@@ -377,7 +377,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:30:42.249Z",
+    "last_updated": "2026-08-27T15:18:28.232Z",
     "original_repository_info": {
       "archived": false,
       "id": 1037882481,
@@ -385,7 +385,7 @@
       "last_commit": "2026-08-10T11:33:40Z",
       "owner": "webfuse-com",
       "repo": "awesome-claude",
-      "stars": 1652
+      "stars": 1654
     },
     "original_repository_sha": "3272155bb862bf5d06a44d9b26568778958ed282",
     "enhanced_repository": "enhansome/enhansome-claude",
