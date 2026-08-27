@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 590187800,
                 "language": "Python",
-                "last_commit": "2026-08-25T20:49:49Z",
+                "last_commit": "2026-08-27T00:53:05Z",
                 "owner": "anthropics",
                 "repo": "anthropic-sdk-python",
-                "stars": 3852
+                "stars": 3858
               }
             },
             {
@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 595176353,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T02:35:40Z",
+                "last_commit": "2026-08-27T00:39:17Z",
                 "owner": "anthropics",
                 "repo": "anthropic-sdk-typescript",
-                "stars": 2096
+                "stars": 2097
               }
             },
             {
@@ -44,25 +44,10 @@
                 "archived": false,
                 "id": 835501107,
                 "language": "Go",
-                "last_commit": "2026-08-25T20:49:42Z",
+                "last_commit": "2026-08-27T00:39:27Z",
                 "owner": "anthropics",
                 "repo": "anthropic-sdk-go",
-                "stars": 1179
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "anthropic-sdk-java",
-              "description": "Java/Kotlin SDK with modern features.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 894206832,
-                "language": "Kotlin",
-                "last_commit": "2026-08-25T20:49:41Z",
-                "owner": "anthropics",
-                "repo": "anthropic-sdk-java",
-                "stars": 366
+                "stars": 1180
               }
             },
             {
@@ -74,10 +59,25 @@
                 "archived": false,
                 "id": 944225883,
                 "language": "Ruby",
-                "last_commit": "2026-08-25T21:59:29Z",
+                "last_commit": "2026-08-27T00:40:05Z",
                 "owner": "anthropics",
                 "repo": "anthropic-sdk-ruby",
                 "stars": 366
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "anthropic-sdk-java",
+              "description": "Java/Kotlin SDK with modern features.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 894206832,
+                "language": "Kotlin",
+                "last_commit": "2026-08-27T00:39:38Z",
+                "owner": "anthropics",
+                "repo": "anthropic-sdk-java",
+                "stars": 365
               }
             },
             {
@@ -89,10 +89,10 @@
                 "archived": false,
                 "id": 1044588509,
                 "language": "C#",
-                "last_commit": "2026-08-25T20:51:45Z",
+                "last_commit": "2026-08-27T00:41:23Z",
                 "owner": "anthropics",
                 "repo": "anthropic-sdk-csharp",
-                "stars": 317
+                "stars": 318
               }
             },
             {
@@ -104,10 +104,10 @@
                 "archived": false,
                 "id": 1044588287,
                 "language": "PHP",
-                "last_commit": "2026-08-20T18:20:41Z",
+                "last_commit": "2026-08-26T18:00:14Z",
                 "owner": "anthropics",
                 "repo": "anthropic-sdk-php",
-                "stars": 175
+                "stars": 176
               }
             },
             {
@@ -119,10 +119,10 @@
                 "archived": false,
                 "id": 1000486904,
                 "language": "Python",
-                "last_commit": "2026-08-25T22:47:08Z",
+                "last_commit": "2026-08-27T00:25:40Z",
                 "owner": "anthropics",
                 "repo": "claude-agent-sdk-python",
-                "stars": 7975
+                "stars": 7985
               }
             },
             {
@@ -134,7 +134,7 @@
                 "archived": false,
                 "id": 1065482259,
                 "language": "Shell",
-                "last_commit": "2026-08-25T22:31:51Z",
+                "last_commit": "2026-08-26T23:06:48Z",
                 "owner": "anthropics",
                 "repo": "claude-agent-sdk-typescript",
                 "stars": 1718
@@ -152,7 +152,7 @@
                 "last_commit": "2026-08-19T20:42:54Z",
                 "owner": "anthropics",
                 "repo": "claude-cookbooks",
-                "stars": 52146
+                "stars": 52189
               }
             },
             {
@@ -167,7 +167,7 @@
                 "last_commit": "2026-08-25T14:48:13Z",
                 "owner": "anthropics",
                 "repo": "claude-quickstarts",
-                "stars": 17524
+                "stars": 17527
               }
             }
           ],
@@ -190,10 +190,10 @@
             "archived": false,
             "id": 896335270,
             "language": null,
-            "last_commit": "2026-08-17T21:28:42Z",
+            "last_commit": "2026-08-26T20:37:13Z",
             "owner": "punkpeye",
             "repo": "awesome-mcp-servers",
-            "stars": 92826
+            "stars": 92872
           }
         },
         {
@@ -205,10 +205,10 @@
             "archived": false,
             "id": 969302809,
             "language": "Python",
-            "last_commit": "2026-08-26T03:23:01Z",
+            "last_commit": "2026-08-27T09:07:04Z",
             "owner": "hesreallyhim",
             "repo": "awesome-claude-code",
-            "stars": 52990
+            "stars": 53066
           }
         },
         {
@@ -223,7 +223,7 @@
             "last_commit": "2026-08-12T13:34:46Z",
             "owner": "VoltAgent",
             "repo": "awesome-claude-code-subagents",
-            "stars": 24637
+            "stars": 24668
           }
         },
         {
@@ -238,7 +238,7 @@
             "last_commit": "2026-04-28T19:30:24Z",
             "owner": "travisvn",
             "repo": "awesome-claude-skills",
-            "stars": 14824
+            "stars": 14842
           }
         },
         {
@@ -268,7 +268,7 @@
             "last_commit": "2026-08-25T13:49:28Z",
             "owner": "langgptai",
             "repo": "awesome-claude-prompts",
-            "stars": 5443
+            "stars": 5447
           }
         },
         {
@@ -349,7 +349,7 @@
                 "last_commit": "2026-08-25T17:10:32Z",
                 "owner": "ykdojo",
                 "repo": "claude-code-tips",
-                "stars": 9933
+                "stars": 9957
               }
             },
             {
@@ -364,7 +364,7 @@
                 "last_commit": "2026-07-28T11:00:38Z",
                 "owner": "wesammustafa",
                 "repo": "Claude-Code-Everything-You-Need-to-Know",
-                "stars": 2690
+                "stars": 2692
               }
             }
           ],
@@ -377,9 +377,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T04:58:48.248Z",
-    "original_repository": "webfuse-com/awesome-claude",
-    "original_repository_id": 1037882481,
+    "last_updated": "2026-08-27T11:30:42.249Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 1037882481,
+      "language": "TypeScript",
+      "last_commit": "2026-08-10T11:33:40Z",
+      "owner": "webfuse-com",
+      "repo": "awesome-claude",
+      "stars": 1652
+    },
     "original_repository_sha": "3272155bb862bf5d06a44d9b26568778958ed282",
     "enhanced_repository": "enhansome/enhansome-claude",
     "enhanced_repository_description": null,
