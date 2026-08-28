@@ -14,11 +14,12 @@
                 "archived": false,
                 "id": 590187800,
                 "language": "Python",
-                "last_commit": "2026-08-27T00:53:05Z",
+                "last_commit": "2026-08-28T15:47:45Z",
                 "owner": "anthropics",
                 "repo": "anthropic-sdk-python",
-                "stars": 3858
-              }
+                "stars": 3862
+              },
+              "first_seen": "2026-08-28T16:42:09.236Z"
             },
             {
               "node_type": "item",
@@ -29,11 +30,12 @@
                 "archived": false,
                 "id": 595176353,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T00:39:17Z",
+                "last_commit": "2026-08-28T15:47:48Z",
                 "owner": "anthropics",
                 "repo": "anthropic-sdk-typescript",
-                "stars": 2098
-              }
+                "stars": 2100
+              },
+              "first_seen": "2026-08-28T16:42:09.236Z"
             },
             {
               "node_type": "item",
@@ -44,11 +46,12 @@
                 "archived": false,
                 "id": 835501107,
                 "language": "Go",
-                "last_commit": "2026-08-27T00:39:27Z",
+                "last_commit": "2026-08-28T15:47:31Z",
                 "owner": "anthropics",
                 "repo": "anthropic-sdk-go",
                 "stars": 1180
-              }
+              },
+              "first_seen": "2026-08-28T16:42:09.236Z"
             },
             {
               "node_type": "item",
@@ -59,11 +62,12 @@
                 "archived": false,
                 "id": 944225883,
                 "language": "Ruby",
-                "last_commit": "2026-08-27T00:40:05Z",
+                "last_commit": "2026-08-28T15:48:51Z",
                 "owner": "anthropics",
                 "repo": "anthropic-sdk-ruby",
                 "stars": 366
-              }
+              },
+              "first_seen": "2026-08-28T16:42:09.236Z"
             },
             {
               "node_type": "item",
@@ -74,11 +78,12 @@
                 "archived": false,
                 "id": 894206832,
                 "language": "Kotlin",
-                "last_commit": "2026-08-27T00:39:38Z",
+                "last_commit": "2026-08-28T15:49:29Z",
                 "owner": "anthropics",
                 "repo": "anthropic-sdk-java",
                 "stars": 365
-              }
+              },
+              "first_seen": "2026-08-28T16:42:09.236Z"
             },
             {
               "node_type": "item",
@@ -89,11 +94,12 @@
                 "archived": false,
                 "id": 1044588509,
                 "language": "C#",
-                "last_commit": "2026-08-27T00:41:23Z",
+                "last_commit": "2026-08-28T15:51:06Z",
                 "owner": "anthropics",
                 "repo": "anthropic-sdk-csharp",
                 "stars": 318
-              }
+              },
+              "first_seen": "2026-08-28T16:42:09.236Z"
             },
             {
               "node_type": "item",
@@ -108,7 +114,8 @@
                 "owner": "anthropics",
                 "repo": "anthropic-sdk-php",
                 "stars": 176
-              }
+              },
+              "first_seen": "2026-08-28T16:42:09.236Z"
             },
             {
               "node_type": "item",
@@ -119,11 +126,12 @@
                 "archived": false,
                 "id": 1000486904,
                 "language": "Python",
-                "last_commit": "2026-08-27T00:25:40Z",
+                "last_commit": "2026-08-28T01:03:45Z",
                 "owner": "anthropics",
                 "repo": "claude-agent-sdk-python",
-                "stars": 7985
-              }
+                "stars": 7996
+              },
+              "first_seen": "2026-08-28T16:42:09.236Z"
             },
             {
               "node_type": "item",
@@ -134,11 +142,12 @@
                 "archived": false,
                 "id": 1065482259,
                 "language": "Shell",
-                "last_commit": "2026-08-26T23:06:48Z",
+                "last_commit": "2026-08-28T00:49:18Z",
                 "owner": "anthropics",
                 "repo": "claude-agent-sdk-typescript",
-                "stars": 1718
-              }
+                "stars": 1719
+              },
+              "first_seen": "2026-08-28T16:42:09.236Z"
             },
             {
               "node_type": "item",
@@ -152,8 +161,9 @@
                 "last_commit": "2026-08-19T20:42:54Z",
                 "owner": "anthropics",
                 "repo": "claude-cookbooks",
-                "stars": 52192
-              }
+                "stars": 52235
+              },
+              "first_seen": "2026-08-28T16:42:09.236Z"
             },
             {
               "node_type": "item",
@@ -167,8 +177,9 @@
                 "last_commit": "2026-08-25T14:48:13Z",
                 "owner": "anthropics",
                 "repo": "claude-quickstarts",
-                "stars": 17533
-              }
+                "stars": 17565
+              },
+              "first_seen": "2026-08-28T16:42:09.236Z"
             }
           ],
           "description": "Official Client SDKs - Full feature parity: messages, tools, streaming, caching, computer use.\nAgent SDKs - Build custom autonomous agents with Claude Code capabilities.\nStarters",
@@ -190,11 +201,12 @@
             "archived": false,
             "id": 896335270,
             "language": null,
-            "last_commit": "2026-08-26T20:37:13Z",
+            "last_commit": "2026-08-27T21:09:23Z",
             "owner": "punkpeye",
             "repo": "awesome-mcp-servers",
-            "stars": 92882
-          }
+            "stars": 92969
+          },
+          "first_seen": "2026-08-28T16:42:09.236Z"
         },
         {
           "node_type": "item",
@@ -205,11 +217,12 @@
             "archived": false,
             "id": 969302809,
             "language": "Python",
-            "last_commit": "2026-08-27T09:07:04Z",
+            "last_commit": "2026-08-28T16:08:58Z",
             "owner": "hesreallyhim",
             "repo": "awesome-claude-code",
-            "stars": 53075
-          }
+            "stars": 53129
+          },
+          "first_seen": "2026-08-28T16:42:09.236Z"
         },
         {
           "node_type": "item",
@@ -223,8 +236,9 @@
             "last_commit": "2026-08-12T13:34:46Z",
             "owner": "VoltAgent",
             "repo": "awesome-claude-code-subagents",
-            "stars": 24674
-          }
+            "stars": 24711
+          },
+          "first_seen": "2026-08-28T16:42:09.236Z"
         },
         {
           "node_type": "item",
@@ -238,8 +252,9 @@
             "last_commit": "2026-04-28T19:30:24Z",
             "owner": "travisvn",
             "repo": "awesome-claude-skills",
-            "stars": 14842
-          }
+            "stars": 14867
+          },
+          "first_seen": "2026-08-28T16:42:09.236Z"
         },
         {
           "node_type": "item",
@@ -253,8 +268,9 @@
             "last_commit": "2026-08-02T11:06:52Z",
             "owner": "BehiSecc",
             "repo": "awesome-claude-skills",
-            "stars": 10058
-          }
+            "stars": 10063
+          },
+          "first_seen": "2026-08-28T16:42:09.236Z"
         },
         {
           "node_type": "item",
@@ -268,8 +284,9 @@
             "last_commit": "2026-08-25T13:49:28Z",
             "owner": "langgptai",
             "repo": "awesome-claude-prompts",
-            "stars": 5447
-          }
+            "stars": 5451
+          },
+          "first_seen": "2026-08-28T16:42:09.236Z"
         },
         {
           "node_type": "item",
@@ -283,8 +300,9 @@
             "last_commit": "2025-10-30T00:06:52Z",
             "owner": "vijaythecoder",
             "repo": "awesome-claude-agents",
-            "stars": 4384
-          }
+            "stars": 4385
+          },
+          "first_seen": "2026-08-28T16:42:09.236Z"
         }
       ],
       "title": "⭐ Community Curated Lists"
@@ -307,7 +325,8 @@
                 "owner": "andrepimenta",
                 "repo": "claude-code-chat",
                 "stars": 1082
-              }
+              },
+              "first_seen": "2026-08-28T16:42:09.236Z"
             },
             {
               "node_type": "item",
@@ -322,7 +341,8 @@
                 "owner": "ashwingopalsamy",
                 "repo": "claude-code-theme",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T16:42:09.236Z"
             }
           ],
           "description": null,
@@ -349,8 +369,9 @@
                 "last_commit": "2026-08-25T17:10:32Z",
                 "owner": "ykdojo",
                 "repo": "claude-code-tips",
-                "stars": 9956
-              }
+                "stars": 9962
+              },
+              "first_seen": "2026-08-28T16:42:09.236Z"
             },
             {
               "node_type": "item",
@@ -364,8 +385,9 @@
                 "last_commit": "2026-07-28T11:00:38Z",
                 "owner": "wesammustafa",
                 "repo": "Claude-Code-Everything-You-Need-to-Know",
-                "stars": 2693
-              }
+                "stars": 2698
+              },
+              "first_seen": "2026-08-28T16:42:09.236Z"
             }
           ],
           "description": null,
@@ -377,7 +399,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T15:18:28.232Z",
+    "last_updated": "2026-08-28T16:42:09.236Z",
     "original_repository_info": {
       "archived": false,
       "id": 1037882481,
@@ -385,7 +407,7 @@
       "last_commit": "2026-08-10T11:33:40Z",
       "owner": "webfuse-com",
       "repo": "awesome-claude",
-      "stars": 1654
+      "stars": 1655
     },
     "original_repository_sha": "3272155bb862bf5d06a44d9b26568778958ed282",
     "enhanced_repository": "enhansome/enhansome-claude",
