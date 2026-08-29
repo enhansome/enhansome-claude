@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 590187800,
                 "language": "Python",
-                "last_commit": "2026-08-28T15:47:45Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T00:28:30Z",
+                "open_issues": 155,
                 "owner": "anthropics",
                 "repo": "anthropic-sdk-python",
-                "stars": 3862
+                "stars": 3865,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:42:09.236Z"
             },
@@ -28,12 +33,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Access to Anthropic's safety-first language model APIs in TypeScript",
+                "homepage": "https://www.npmjs.com/package/@anthropic-ai/sdk",
                 "id": 595176353,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T15:47:48Z",
+                "open_issues": 54,
                 "owner": "anthropics",
                 "repo": "anthropic-sdk-typescript",
-                "stars": 2100
+                "stars": 2100,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:42:09.236Z"
             },
@@ -44,12 +54,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Access to Anthropic's safety-first language model APIs via Go",
+                "homepage": null,
                 "id": 835501107,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-28T15:47:31Z",
+                "open_issues": 37,
                 "owner": "anthropics",
                 "repo": "anthropic-sdk-go",
-                "stars": 1180
+                "stars": 1180,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:42:09.236Z"
             },
@@ -60,12 +75,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 944225883,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2026-08-28T15:48:51Z",
+                "open_issues": 5,
                 "owner": "anthropics",
                 "repo": "anthropic-sdk-ruby",
-                "stars": 366
+                "stars": 366,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:42:09.236Z"
             },
@@ -76,12 +96,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 894206832,
                 "language": "Kotlin",
+                "license": "MIT",
                 "last_commit": "2026-08-28T15:49:29Z",
+                "open_issues": 5,
                 "owner": "anthropics",
                 "repo": "anthropic-sdk-java",
-                "stars": 365
+                "stars": 365,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:42:09.236Z"
             },
@@ -92,12 +117,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Access to Anthropic's safety-first language model APIs in C#",
+                "homepage": null,
                 "id": 1044588509,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-28T15:51:06Z",
+                "open_issues": 10,
                 "owner": "anthropics",
                 "repo": "anthropic-sdk-csharp",
-                "stars": 318
+                "stars": 318,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:42:09.236Z"
             },
@@ -108,12 +138,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Access to Anthropic's safety-first language model APIs in PHP",
+                "homepage": null,
                 "id": 1044588287,
                 "language": "PHP",
-                "last_commit": "2026-08-26T18:00:14Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T20:25:45Z",
+                "open_issues": 6,
                 "owner": "anthropics",
                 "repo": "anthropic-sdk-php",
-                "stars": 176
+                "stars": 176,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:42:09.236Z"
             },
@@ -124,12 +159,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1000486904,
                 "language": "Python",
-                "last_commit": "2026-08-28T01:03:45Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T18:34:54Z",
+                "open_issues": 444,
                 "owner": "anthropics",
                 "repo": "claude-agent-sdk-python",
-                "stars": 7996
+                "stars": 7997,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:42:09.236Z"
             },
@@ -140,12 +180,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1065482259,
                 "language": "Shell",
-                "last_commit": "2026-08-28T00:49:18Z",
+                "license": null,
+                "last_commit": "2026-08-28T18:19:37Z",
+                "open_issues": 196,
                 "owner": "anthropics",
                 "repo": "claude-agent-sdk-typescript",
-                "stars": 1719
+                "stars": 1719,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:42:09.236Z"
             },
@@ -156,12 +201,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+                "homepage": null,
                 "id": 678973052,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-19T20:42:54Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T21:53:43Z",
+                "open_issues": 318,
                 "owner": "anthropics",
                 "repo": "claude-cookbooks",
-                "stars": 52235
+                "stars": 52249,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:42:09.236Z"
             },
@@ -172,12 +222,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+                "homepage": null,
                 "id": 849553306,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-25T14:48:13Z",
+                "open_issues": 195,
                 "owner": "anthropics",
                 "repo": "claude-quickstarts",
-                "stars": 17565
+                "stars": 17568,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:42:09.236Z"
             }
@@ -199,12 +254,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of MCP servers.",
+            "homepage": "https://glama.ai/mcp/servers",
             "id": 896335270,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-08-27T21:09:23Z",
+            "open_issues": 3711,
             "owner": "punkpeye",
             "repo": "awesome-mcp-servers",
-            "stars": 92969
+            "stars": 93008,
+            "topics": [
+              "ai",
+              "mcp"
+            ]
           },
           "first_seen": "2026-08-28T16:42:09.236Z"
         },
@@ -215,12 +278,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins",
+            "homepage": null,
             "id": 969302809,
             "language": "Python",
-            "last_commit": "2026-08-28T16:08:58Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T03:10:54Z",
+            "open_issues": 945,
             "owner": "hesreallyhim",
             "repo": "awesome-claude-code",
-            "stars": 53129
+            "stars": 53148,
+            "topics": [
+              "agent-skills",
+              "agentic-code",
+              "agentic-coding",
+              "ai-workflow-optimization",
+              "ai-workflows",
+              "anthropic",
+              "anthropic-claude",
+              "awesome",
+              "awesome-claude-code",
+              "awesome-list",
+              "awesome-lists",
+              "awesome-resources",
+              "claude",
+              "claude-code",
+              "coding-agent",
+              "coding-agents",
+              "coding-assistant",
+              "coding-assistants",
+              "llm"
+            ]
           },
           "first_seen": "2026-08-28T16:42:09.236Z"
         },
@@ -231,12 +319,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases",
+            "homepage": "https://github.com/VoltAgent/voltagent",
             "id": 1029036679,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-08-12T13:34:46Z",
+            "open_issues": 10,
             "owner": "VoltAgent",
             "repo": "awesome-claude-code-subagents",
-            "stars": 24711
+            "stars": 24722,
+            "topics": [
+              "ai-agent-framework",
+              "ai-agent-tools",
+              "ai-agents",
+              "awesome",
+              "awesome-list",
+              "claude",
+              "claude-ai",
+              "claude-code-subagents",
+              "claude-subagents",
+              "subagents"
+            ]
           },
           "first_seen": "2026-08-28T16:42:09.236Z"
         },
@@ -247,12 +351,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code",
+            "homepage": null,
             "id": 1077850011,
             "language": null,
+            "license": null,
             "last_commit": "2026-04-28T19:30:24Z",
+            "open_issues": 773,
             "owner": "travisvn",
             "repo": "awesome-claude-skills",
-            "stars": 14867
+            "stars": 14873,
+            "topics": [
+              "agentic-coding",
+              "anthropic",
+              "awesome",
+              "awesome-list",
+              "awesome-lists",
+              "claude",
+              "claude-ai",
+              "claude-code",
+              "claude-desktop",
+              "claude-skills",
+              "claudeskills"
+            ]
           },
           "first_seen": "2026-08-28T16:42:09.236Z"
         },
@@ -263,12 +384,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of Claude Skills.",
+            "homepage": null,
             "id": 1078332194,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-02T11:06:52Z",
+            "open_issues": 120,
             "owner": "BehiSecc",
             "repo": "awesome-claude-skills",
-            "stars": 10063
+            "stars": 10064,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:42:09.236Z"
         },
@@ -279,12 +405,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repo includes Claude prompt curation to use Claude better.",
+            "homepage": null,
             "id": 665340930,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-25T13:49:28Z",
+            "open_issues": 0,
             "owner": "langgptai",
             "repo": "awesome-claude-prompts",
-            "stars": 5451
+            "stars": 5451,
+            "topics": [
+              "anthropic",
+              "anthropic-claude",
+              "awesome-claude",
+              "awesome-claude-prompts",
+              "awesome-prompts",
+              "chatgpt",
+              "chatgpt-4",
+              "chatgpt3",
+              "claude",
+              "claude-ai",
+              "openai",
+              "openai-chatgpt",
+              "prompt",
+              "prompt-learning",
+              "prompt-toolkit",
+              "prompts"
+            ]
           },
           "first_seen": "2026-08-28T16:42:09.236Z"
         },
@@ -295,12 +443,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An orchestrated sub agent dev team powered by claude code",
+            "homepage": "https://x.com/vijaytupakula",
             "id": 1026819254,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-10-30T00:06:52Z",
+            "open_issues": 47,
             "owner": "vijaythecoder",
             "repo": "awesome-claude-agents",
-            "stars": 4385
+            "stars": 4386,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:42:09.236Z"
         }
@@ -319,12 +472,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Beautiful Claude Code Chat Interface for VS Code",
+                "homepage": "https://marketplace.visualstudio.com/items?itemName=AndrePimenta.claude-code-chat",
                 "id": 1003106157,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-24T10:07:34Z",
+                "open_issues": 178,
                 "owner": "andrepimenta",
                 "repo": "claude-code-chat",
-                "stars": 1082
+                "stars": 1082,
+                "topics": [
+                  "ai",
+                  "ai-agents",
+                  "claude",
+                  "claude-code",
+                  "vibe-coding",
+                  "vscode",
+                  "vscode-extension"
+                ]
               },
               "first_seen": "2026-08-28T16:42:09.236Z"
             },
@@ -335,12 +501,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Claude-aligned VS Code theme system with dark/light + high-contrast variants, semantic token tuning, and WCAG-validated contrast for coding sessions.",
+                "homepage": null,
                 "id": 1154110906,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-23T17:23:38Z",
+                "open_issues": 2,
                 "owner": "ashwingopalsamy",
                 "repo": "claude-code-theme",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:42:09.236Z"
             }
@@ -364,12 +535,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "45+ tips for getting the most out of Claude Code, from basics to advanced - includes a custom status line script and Claude Code running itself in a container. Also includes the dx plugin: skills for everyday dev workflows.",
+                "homepage": null,
                 "id": 1105657641,
                 "language": "HTML",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-25T17:10:32Z",
+                "open_issues": 4,
                 "owner": "ykdojo",
                 "repo": "claude-code-tips",
-                "stars": 9962
+                "stars": 9963,
+                "topics": [
+                  "agentic",
+                  "agentic-ai",
+                  "agentic-coding",
+                  "agentic-workflow",
+                  "ai",
+                  "claude",
+                  "claude-ai",
+                  "claude-code",
+                  "cli",
+                  "developer-tools",
+                  "productivity",
+                  "tips-and-tricks"
+                ]
               },
               "first_seen": "2026-08-28T16:42:09.236Z"
             },
@@ -380,12 +569,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A practical Claude Code guide with clear mental models and copy-paste examples — setup, prompt engineering, slash commands, skills, hooks, subagents, agent teams, and MCP servers. Beginner path to power-user depth. Featured in Awesome Claude Code.",
+                "homepage": null,
                 "id": 1039579222,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-28T11:00:38Z",
+                "open_issues": 7,
                 "owner": "wesammustafa",
                 "repo": "Claude-Code-Everything-You-Need-to-Know",
-                "stars": 2698
+                "stars": 2702,
+                "topics": [
+                  "agent-skills",
+                  "agentic-coding",
+                  "ai-agents",
+                  "anthropic",
+                  "anthropic-claude",
+                  "best-practices",
+                  "claude",
+                  "claude-ai",
+                  "claude-code",
+                  "claude-code-guide",
+                  "claude-code-hooks",
+                  "claude-code-skills",
+                  "claude-code-tutorial",
+                  "claude-skills",
+                  "guide",
+                  "mcp",
+                  "mcp-servers",
+                  "prompt-engineering",
+                  "subagents",
+                  "tutorial"
+                ]
               },
               "first_seen": "2026-08-28T16:42:09.236Z"
             }
@@ -399,15 +614,35 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T16:42:09.236Z",
+    "last_updated": "2026-08-29T04:31:31.079Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome things related to Anthropic Claude",
+      "homepage": "https://awesomeclaude.ai",
       "id": 1037882481,
       "language": "TypeScript",
+      "license": "CC0-1.0",
       "last_commit": "2026-08-10T11:33:40Z",
+      "open_issues": 233,
       "owner": "webfuse-com",
       "repo": "awesome-claude",
-      "stars": 1655
+      "stars": 1656,
+      "topics": [
+        "agentic-ai",
+        "anthropic",
+        "anthropic-claude",
+        "awesome",
+        "awesome-ai",
+        "awesome-ai-directory",
+        "awesome-ai-tools",
+        "awesome-list",
+        "awesome-lists",
+        "awesome-resources",
+        "claude",
+        "claude-ai",
+        "claude-code",
+        "coding-agents"
+      ]
     },
     "original_repository_sha": "3272155bb862bf5d06a44d9b26568778958ed282",
     "enhanced_repository": "enhansome/enhansome-claude",
