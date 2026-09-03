@@ -21,9 +21,9 @@ AI assistant by Anthropic for complex reasoning, code generation, and analysis t
 
 <div align="center">
 
-[<img src="assets/webmcp-deverlopers.png" alt="awesome-webmcp" height="80" style="border-radius: 16px;">](https://github.com/webfuse-com/awesome-webmcp) ⭐ 111 | 🐛 5 | 📅 2026-08-26
+[<img src="assets/webmcp-deverlopers.png" alt="awesome-webmcp" height="80" style="border-radius: 16px;">](https://github.com/webfuse-com/awesome-webmcp) ⭐ 114 | 🐛 6 | 📅 2026-08-26
 
-**Building with the Web?** Check out [awesome-webmcp](https://github.com/webfuse-com/awesome-webmcp) ⭐ 111 | 🐛 5 | 📅 2026-08-26 - a curated list of awesome things related to the WebMCP W3C standard.
+**Building with the Web?** Check out [awesome-webmcp](https://github.com/webfuse-com/awesome-webmcp) ⭐ 114 | 🐛 6 | 📅 2026-08-26 - a curated list of awesome things related to the WebMCP W3C standard.
 
 </div>
 
@@ -68,9 +68,9 @@ Model IDs from the 4.6 generation onward are dateless but still pinned snapshots
 
 **Official Client SDKs** -  Full feature parity: messages, tools, streaming, caching, computer use.
 
-* [anthropic-sdk-python](https://github.com/anthropics/anthropic-sdk-python) ⭐ 3,876 | 🐛 160 | 🌐 Python | 📅 2026-09-01 -  Python SDK with async support and type hints.
-* [anthropic-sdk-typescript](https://github.com/anthropics/anthropic-sdk-typescript) ⭐ 2,104 | 🐛 55 | 🌐 TypeScript | 📅 2026-09-01 -  TypeScript/JavaScript SDK for Node.js and browsers.
-* [anthropic-sdk-go](https://github.com/anthropics/anthropic-sdk-go) ⭐ 1,181 | 🐛 40 | 🌐 Go | 📅 2026-09-01 -  Go SDK with idiomatic design.
+* [anthropic-sdk-python](https://github.com/anthropics/anthropic-sdk-python) ⭐ 3,880 | 🐛 158 | 🌐 Python | 📅 2026-09-03 -  Python SDK with async support and type hints.
+* [anthropic-sdk-typescript](https://github.com/anthropics/anthropic-sdk-typescript) ⭐ 2,105 | 🐛 55 | 🌐 TypeScript | 📅 2026-09-03 -  TypeScript/JavaScript SDK for Node.js and browsers.
+* [anthropic-sdk-go](https://github.com/anthropics/anthropic-sdk-go) ⭐ 1,183 | 🐛 45 | 🌐 Go | 📅 2026-09-02 -  Go SDK with idiomatic design.
 * [anthropic-sdk-ruby](https://github.com/anthropics/anthropic-sdk-ruby) ⭐ 366 | 🐛 4 | 🌐 Ruby | 📅 2026-09-01 -  Ruby SDK.
 * [anthropic-sdk-java](https://github.com/anthropics/anthropic-sdk-java) ⭐ 365 | 🐛 4 | 🌐 Kotlin | 📅 2026-09-01 -  Java/Kotlin SDK with modern features.
 * [anthropic-sdk-csharp](https://github.com/anthropics/anthropic-sdk-csharp) ⭐ 319 | 🐛 10 | 🌐 C# | 📅 2026-09-01 -  C#/.NET SDK (Beta).
@@ -78,13 +78,13 @@ Model IDs from the 4.6 generation onward are dateless but still pinned snapshots
 
 **Agent SDKs** -  Build custom autonomous agents with Claude Code capabilities.
 
-* [claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) ⭐ 8,026 | 🐛 448 | 🌐 Python | 📅 2026-09-01 -  Python Agent SDK. [Docs](https://platform.claude.com/docs/en/agent-sdk/overview)
-* [claude-agent-sdk-typescript](https://github.com/anthropics/claude-agent-sdk-typescript) ⭐ 1,723 | 🐛 199 | 🌐 Shell | 📅 2026-09-01 -  TypeScript Agent SDK.
+* [claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) ⭐ 8,031 | 🐛 447 | 🌐 Python | 📅 2026-09-02 -  Python Agent SDK. [Docs](https://platform.claude.com/docs/en/agent-sdk/overview)
+* [claude-agent-sdk-typescript](https://github.com/anthropics/claude-agent-sdk-typescript) ⭐ 1,726 | 🐛 198 | 🌐 Shell | 📅 2026-09-02 -  TypeScript Agent SDK.
 
 **Starters**
 
-* [Claude Cookbook](https://github.com/anthropics/claude-cookbooks) ⭐ 52,358 | 🐛 319 | 🌐 Jupyter Notebook | 📅 2026-08-28 -  Official notebooks and recipes for common patterns (RAG, tool use, Skills, MCP).
-* [Claude Quickstarts](https://github.com/anthropics/claude-quickstarts) ⭐ 17,591 | 🐛 198 | 🌐 TypeScript | 📅 2026-09-01 -  Ready-to-deploy example apps.
+* [Claude Cookbook](https://github.com/anthropics/claude-cookbooks) ⭐ 52,384 | 🐛 318 | 🌐 Jupyter Notebook | 📅 2026-09-02 -  Official notebooks and recipes for common patterns (RAG, tool use, Skills, MCP).
+* [Claude Quickstarts](https://github.com/anthropics/claude-quickstarts) ⭐ 17,598 | 🐛 198 | 🌐 TypeScript | 📅 2026-09-01 -  Ready-to-deploy example apps.
 
 ### ☁️ Cloud Providers
 
@@ -135,7 +135,7 @@ Open standard (Linux Foundation) for connecting Claude to tools, repos, database
 * [MCP official site](https://modelcontextprotocol.io/) -  Spec, SDKs, and quickstart.
 * [Introduction to MCP](https://anthropic.skilljar.com/introduction-to-model-context-protocol) -  Official Anthropic course: build MCP servers and clients from scratch in Python.
 * [MCP: Advanced Topics](https://anthropic.skilljar.com/model-context-protocol-advanced-topics) -  Sampling, notifications, transports.
-* [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers#readme) ⭐ 93,764 | 🐛 3,681 | 📅 2026-09-01 -  Curated community list of MCP servers.
+* [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers#readme) ⭐ 93,911 | 🐛 3,782 | 📅 2026-09-01 -  Curated community list of MCP servers.
 
 ***
 
@@ -143,12 +143,12 @@ Open standard (Linux Foundation) for connecting Claude to tools, repos, database
 
 **Awesome lists and collections maintained by the community**
 
-* [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers#readme) ⭐ 93,764 | 🐛 3,681 | 📅 2026-09-01 -  Curated list of Model Context Protocol (MCP) servers for extending Claude's capabilities.
-* [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code#readme) ⭐ 53,366 | 🐛 968 | 🌐 Python | 📅 2026-09-02 -  Slash-commands, CLAUDE.md files, CLI tools, and workflows for Claude Code.
-* [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents#readme) ⭐ 24,796 | 🐛 10 | 🌐 Shell | 📅 2026-09-01 -  100+ specialized AI agents for full-stack development maintained by the community.
-* [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills#readme) ⭐ 14,933 | 🐛 788 | 📅 2026-04-28 -  Resources and tools for customizing AI workflows with Claude Skills.
-* [BehiSecc/awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills#readme) ⭐ 10,085 | 🐛 133 | 📅 2026-08-02 -  Categorized skills for document handling, development tools, data analysis, and more.
-* [langgptai/awesome-claude-prompts](https://github.com/langgptai/awesome-claude-prompts#readme) ⭐ 5,456 | 🐛 0 | 📅 2026-08-25 -  Collection of prompt examples designed to improve Claude interactions.
+* [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers#readme) ⭐ 93,911 | 🐛 3,782 | 📅 2026-09-01 -  Curated list of Model Context Protocol (MCP) servers for extending Claude's capabilities.
+* [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code#readme) ⭐ 53,428 | 🐛 978 | 🌐 Python | 📅 2026-09-03 -  Slash-commands, CLAUDE.md files, CLI tools, and workflows for Claude Code.
+* [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents#readme) ⭐ 24,828 | 🐛 10 | 🌐 Shell | 📅 2026-09-02 -  100+ specialized AI agents for full-stack development maintained by the community.
+* [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills#readme) ⭐ 14,945 | 🐛 789 | 📅 2026-04-28 -  Resources and tools for customizing AI workflows with Claude Skills.
+* [BehiSecc/awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills#readme) ⭐ 10,090 | 🐛 138 | 📅 2026-08-02 -  Categorized skills for document handling, development tools, data analysis, and more.
+* [langgptai/awesome-claude-prompts](https://github.com/langgptai/awesome-claude-prompts#readme) ⭐ 5,460 | 🐛 0 | 📅 2026-08-25 -  Collection of prompt examples designed to improve Claude interactions.
 * [vijaythecoder/awesome-claude-agents](https://github.com/vijaythecoder/awesome-claude-agents#readme) ⭐ 4,387 | 🐛 47 | 📅 2025-10-30 -  Team of specialized AI agents for building features and debugging.
 
 ***
@@ -175,7 +175,7 @@ Open standard (Linux Foundation) for connecting Claude to tools, repos, database
 ### 🖥️ Desktop
 
 * [Claude Desktop](https://claude.ai/download) -  Official Claude desktop app for macOS and Windows. Includes a dedicated **Code** tab (GUI for Claude Code) and **Cowork** for non-technical users.
-* [Claude Desktop Debian](https://github.com/aaddrick/claude-desktop-debian#readme) ⭐ 5,374 | 🐛 36 | 🌐 TypeScript | 📅 2026-09-02 -  Unofficial Claude desktop app for Debian/Linux.
+* [Claude Desktop Debian](https://github.com/aaddrick/claude-desktop-debian#readme) ⭐ 5,376 | 🐛 36 | 🌐 TypeScript | 📅 2026-09-03 -  Unofficial Claude desktop app for Debian/Linux.
 
 ***
 
@@ -204,8 +204,8 @@ Open standard (Linux Foundation) for connecting Claude to tools, repos, database
 
 ### 📖 Community Guides
 
-* [40+ Claude Code Tips](https://github.com/ykdojo/claude-code-tips#readme) ⭐ 10,010 | 🐛 4 | 🌐 HTML | 📅 2026-09-02 -  Tips for getting the most out of Claude Code, including a custom status line script, cutting the system prompt in half, using Gemini CLI as Claude Code's minion, and Claude Code running itself in a container. Also includes the dx plugin for GitHub Actions debugging, conversation cloning, and handoffs.
-* [Claude Code Everything You Need to Know](https://github.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know#readme) ⭐ 2,778 | 🐛 7 | 🌐 Python | 📅 2026-07-28 -  Ultimate all-in-one guide to mastering Claude Code. Covers setup, prompt engineering, commands, hooks, workflows, automation, integrations, MCP servers, and the BMAD method.
+* [40+ Claude Code Tips](https://github.com/ykdojo/claude-code-tips#readme) ⭐ 10,023 | 🐛 4 | 🌐 HTML | 📅 2026-09-02 -  Tips for getting the most out of Claude Code, including a custom status line script, cutting the system prompt in half, using Gemini CLI as Claude Code's minion, and Claude Code running itself in a container. Also includes the dx plugin for GitHub Actions debugging, conversation cloning, and handoffs.
+* [Claude Code Everything You Need to Know](https://github.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know#readme) ⭐ 2,908 | 🐛 7 | 🌐 Python | 📅 2026-07-28 -  Ultimate all-in-one guide to mastering Claude Code. Covers setup, prompt engineering, commands, hooks, workflows, automation, integrations, MCP servers, and the BMAD method.
 * [My Experience With Claude Code After 2 Weeks of Adventures](https://sankalp.bearblog.dev/my-claude-code-experience-after-2-weeks-of-usage/) - Part 1: Real-world lessons on using a `TODO.md` file to keep Claude on track, managing costs, and why it often outperforms Cursor for complex refactors.
 * [A Guide to Claude Code 2.0 and getting better at using coding agents](https://sankalp.bearblog.dev/my-experience-with-claude-code-20-and-how-to-get-better-at-using-coding-agents/#setup) - Part 2: A deep dive into the 2.0 update, focusing on the "Agent Manager" mindset, context engineering, and using sub-agents for larger codebases.
 
@@ -225,4 +225,4 @@ Open standard (Linux Foundation) for connecting Claude to tools, repos, database
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
