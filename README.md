@@ -73,7 +73,7 @@ Model IDs from the 4.6 generation onward are dateless but still pinned snapshots
 
 * [anthropic-sdk-python](https://github.com/anthropics/anthropic-sdk-python) ⭐ 3,951 | 🐛 207 | 🌐 Python | 📅 2026-09-30 -  Python SDK with async support and type hints.
 * [anthropic-sdk-typescript](https://github.com/anthropics/anthropic-sdk-typescript) ⭐ 2,130 | 🐛 118 | 🌐 TypeScript | 📅 2026-09-30 -  TypeScript/JavaScript SDK for Node.js and browsers.
-* [anthropic-sdk-go](https://github.com/anthropics/anthropic-sdk-go) ⭐ 1,211 | 🐛 66 | 🌐 Go | 📅 2026-09-30 -  Go SDK with idiomatic design.
+* [anthropic-sdk-go](https://github.com/anthropics/anthropic-sdk-go) ⭐ 1,211 | 🐛 68 | 🌐 Go | 📅 2026-09-30 -  Go SDK with idiomatic design.
 * [anthropic-sdk-java](https://github.com/anthropics/anthropic-sdk-java) ⭐ 377 | 🐛 21 | 🌐 Kotlin | 📅 2026-09-30 -  Java/Kotlin SDK with modern features.
 * [anthropic-sdk-ruby](https://github.com/anthropics/anthropic-sdk-ruby) ⭐ 370 | 🐛 30 | 🌐 Ruby | 📅 2026-09-30 -  Ruby SDK.
 * [anthropic-sdk-csharp](https://github.com/anthropics/anthropic-sdk-csharp) ⭐ 328 | 🐛 39 | 🌐 C# | 📅 2026-09-30 -  C#/.NET SDK (Beta).
@@ -86,7 +86,7 @@ Model IDs from the 4.6 generation onward are dateless but still pinned snapshots
 
 **Starters**
 
-* [Claude Cookbook](https://github.com/anthropics/claude-cookbooks) ⭐ 53,229 | 🐛 356 | 🌐 Jupyter Notebook | 📅 2026-09-28 -  Official notebooks and recipes for common patterns (RAG, tool use, Skills, MCP).
+* [Claude Cookbook](https://github.com/anthropics/claude-cookbooks) ⭐ 53,231 | 🐛 356 | 🌐 Jupyter Notebook | 📅 2026-09-28 -  Official notebooks and recipes for common patterns (RAG, tool use, Skills, MCP).
 * [Claude Quickstarts](https://github.com/anthropics/claude-quickstarts) ⭐ 17,805 | 🐛 222 | 🌐 TypeScript | 📅 2026-09-30 -  Ready-to-deploy example apps.
 
 ### ☁️ Cloud Providers
@@ -150,9 +150,9 @@ Open standard (Linux Foundation) for connecting Claude to tools, repos, database
 **Awesome lists and collections maintained by the community**
 
 * [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers#readme) ⭐ 95,864 | 🐛 3,013 | 📅 2026-09-27 -  Curated list of Model Context Protocol (MCP) servers for extending Claude's capabilities.
-* [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code#readme) ⭐ 55,137 | 🐛 1,221 | 🌐 Python | 📅 2026-10-06 -  Slash-commands, CLAUDE.md files, CLI tools, and workflows for Claude Code.
+* [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code#readme) ⭐ 55,138 | 🐛 1,222 | 🌐 Python | 📅 2026-10-06 -  Slash-commands, CLAUDE.md files, CLI tools, and workflows for Claude Code.
 * [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents#readme) ⭐ 25,525 | 🐛 2 | 🌐 Shell | 📅 2026-10-05 -  100+ specialized AI agents for full-stack development maintained by the community.
-* [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills#readme) ⭐ 15,284 | 🐛 852 | 📅 2026-04-28 -  Resources and tools for customizing AI workflows with Claude Skills.
+* [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills#readme) ⭐ 15,285 | 🐛 852 | 📅 2026-04-28 -  Resources and tools for customizing AI workflows with Claude Skills.
 * [BehiSecc/awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills#readme) ⭐ 10,214 | 🐛 312 | 📅 2026-09-21 -  Categorized skills for document handling, development tools, data analysis, and more.
 * [langgptai/awesome-claude-prompts](https://github.com/langgptai/awesome-claude-prompts#readme) ⭐ 5,514 | 🐛 2 | 📅 2026-08-25 -  Collection of prompt examples designed to improve Claude interactions.
 * [vijaythecoder/awesome-claude-agents](https://github.com/vijaythecoder/awesome-claude-agents#readme) ⭐ 4,389 | 🐛 46 | 📅 2025-10-30 -  Team of specialized AI agents for building features and debugging.
@@ -210,7 +210,7 @@ Open standard (Linux Foundation) for connecting Claude to tools, repos, database
 
 ### 📖 Community Guides
 
-* [40+ Claude Code Tips](https://github.com/ykdojo/claude-code-tips#readme) ⭐ 10,198 | 🐛 4 | 🌐 HTML | 📅 2026-09-25 -  Tips for getting the most out of Claude Code, including a custom status line script, cutting the system prompt in half, using Gemini CLI as Claude Code's minion, and Claude Code running itself in a container. Also includes the dx plugin for GitHub Actions debugging, conversation cloning, and handoffs.
+* [40+ Claude Code Tips](https://github.com/ykdojo/claude-code-tips#readme) ⭐ 10,199 | 🐛 4 | 🌐 HTML | 📅 2026-09-25 -  Tips for getting the most out of Claude Code, including a custom status line script, cutting the system prompt in half, using Gemini CLI as Claude Code's minion, and Claude Code running itself in a container. Also includes the dx plugin for GitHub Actions debugging, conversation cloning, and handoffs.
 * [Claude Code Everything You Need to Know](https://github.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know#readme) ⭐ 3,098 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-06 -  Ultimate all-in-one guide to mastering Claude Code. Covers setup, prompt engineering, commands, hooks, workflows, automation, integrations, MCP servers, and the BMAD method.
 * [My Experience With Claude Code After 2 Weeks of Adventures](https://sankalp.bearblog.dev/my-claude-code-experience-after-2-weeks-of-usage/) - Part 1: Real-world lessons on using a `TODO.md` file to keep Claude on track, managing costs, and why it often outperforms Cursor for complex refactors.
 * [A Guide to Claude Code 2.0 and getting better at using coding agents](https://sankalp.bearblog.dev/my-experience-with-claude-code-20-and-how-to-get-better-at-using-coding-agents/#setup) - Part 2: A deep dive into the 2.0 update, focusing on the "Agent Manager" mindset, context engineering, and using sub-agents for larger codebases.
