@@ -18,10 +18,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-15T19:45:15Z",
-                "open_issues": 206,
+                "open_issues": 211,
                 "owner": "anthropics",
                 "repo": "anthropic-sdk-python",
-                "stars": 3977,
+                "stars": 3980,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:42:09.236Z"
@@ -39,7 +39,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-15T19:42:46Z",
-                "open_issues": 93,
+                "open_issues": 95,
                 "owner": "anthropics",
                 "repo": "anthropic-sdk-typescript",
                 "stars": 2145,
@@ -63,7 +63,7 @@
                 "open_issues": 48,
                 "owner": "anthropics",
                 "repo": "anthropic-sdk-go",
-                "stars": 1224,
+                "stars": 1225,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:42:09.236Z"
@@ -147,7 +147,7 @@
                 "open_issues": 11,
                 "owner": "anthropics",
                 "repo": "anthropic-sdk-php",
-                "stars": 191,
+                "stars": 192,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:42:09.236Z"
@@ -164,11 +164,11 @@
                 "id": 1000486904,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-18T22:28:59Z",
-                "open_issues": 569,
+                "last_commit": "2026-10-19T21:36:54Z",
+                "open_issues": 571,
                 "owner": "anthropics",
                 "repo": "claude-agent-sdk-python",
-                "stars": 8297,
+                "stars": 8304,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:42:09.236Z"
@@ -185,11 +185,11 @@
                 "id": 1065482259,
                 "language": "Shell",
                 "license": null,
-                "last_commit": "2026-10-18T22:26:50Z",
-                "open_issues": 233,
+                "last_commit": "2026-10-19T21:34:25Z",
+                "open_issues": 234,
                 "owner": "anthropics",
                 "repo": "claude-agent-sdk-typescript",
-                "stars": 1821,
+                "stars": 1824,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:42:09.236Z"
@@ -207,10 +207,10 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2026-10-17T00:28:09Z",
-                "open_issues": 362,
+                "open_issues": 364,
                 "owner": "anthropics",
                 "repo": "claude-cookbooks",
-                "stars": 53568,
+                "stars": 53593,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:42:09.236Z"
@@ -228,10 +228,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-08T17:34:23Z",
-                "open_issues": 228,
+                "open_issues": 230,
                 "owner": "anthropics",
                 "repo": "claude-quickstarts",
-                "stars": 18740,
+                "stars": 18888,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:42:09.236Z"
@@ -260,10 +260,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-10-18T02:37:56Z",
-            "open_issues": 3159,
+            "open_issues": 3257,
             "owner": "punkpeye",
             "repo": "awesome-mcp-servers",
-            "stars": 96595,
+            "stars": 96641,
             "topics": [
               "ai",
               "mcp"
@@ -283,11 +283,11 @@
             "id": 969302809,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-19T09:16:10Z",
-            "open_issues": 915,
+            "last_commit": "2026-10-20T09:10:47Z",
+            "open_issues": 914,
             "owner": "hesreallyhim",
             "repo": "awesome-claude-code",
-            "stars": 55992,
+            "stars": 56059,
             "topics": [
               "agent-skills",
               "agentic-code",
@@ -328,7 +328,7 @@
             "open_issues": 0,
             "owner": "VoltAgent",
             "repo": "awesome-claude-code-subagents",
-            "stars": 25850,
+            "stars": 25879,
             "topics": [
               "ai-agent-framework",
               "ai-agent-tools",
@@ -357,10 +357,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-04-28T19:30:24Z",
-            "open_issues": 873,
+            "open_issues": 875,
             "owner": "travisvn",
             "repo": "awesome-claude-skills",
-            "stars": 15458,
+            "stars": 15473,
             "topics": [
               "agentic-coding",
               "anthropic",
@@ -390,10 +390,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-09-21T07:16:41Z",
-            "open_issues": 437,
+            "open_issues": 450,
             "owner": "BehiSecc",
             "repo": "awesome-claude-skills",
-            "stars": 10269,
+            "stars": 10273,
             "topics": []
           },
           "first_seen": "2026-08-28T16:42:09.236Z"
@@ -411,10 +411,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-10-15T23:15:53Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "langgptai",
             "repo": "awesome-claude-prompts",
-            "stars": 5534,
+            "stars": 5533,
             "topics": [
               "anthropic",
               "anthropic-claude",
@@ -481,7 +481,7 @@
                 "open_issues": 177,
                 "owner": "andrepimenta",
                 "repo": "claude-code-chat",
-                "stars": 1085,
+                "stars": 1086,
                 "topics": [
                   "ai",
                   "ai-agents",
@@ -544,7 +544,7 @@
                 "open_issues": 4,
                 "owner": "ykdojo",
                 "repo": "claude-code-tips",
-                "stars": 10248,
+                "stars": 10253,
                 "topics": [
                   "agentic",
                   "agentic-ai",
@@ -574,11 +574,11 @@
                 "id": 1039579222,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-18T02:29:39Z",
+                "last_commit": "2026-10-19T18:53:11Z",
                 "open_issues": 0,
                 "owner": "wesammustafa",
                 "repo": "Claude-Code-Everything-You-Need-to-Know",
-                "stars": 3443,
+                "stars": 3453,
                 "topics": [
                   "agent-skills",
                   "agentic-coding",
@@ -614,7 +614,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T09:59:57.164Z",
+    "last_updated": "2026-10-20T09:28:55.843Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Anthropic Claude",
@@ -623,10 +623,10 @@
       "language": "TypeScript",
       "license": "CC0-1.0",
       "last_commit": "2026-09-30T15:45:23Z",
-      "open_issues": 265,
+      "open_issues": 266,
       "owner": "webfuse-com",
       "repo": "awesome-claude",
-      "stars": 1688,
+      "stars": 1689,
       "topics": [
         "agentic-ai",
         "anthropic",
