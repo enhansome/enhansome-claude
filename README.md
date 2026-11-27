@@ -21,9 +21,9 @@ AI assistant by Anthropic for complex reasoning, code generation, and analysis t
 
 <div align="center">
 
-[<img src="assets/webmcp-deverlopers.png" alt="awesome-webmcp" height="80" style="border-radius: 16px;">](https://github.com/webfuse-com/awesome-webmcp) ⭐ 151 | 🐛 19 | 📅 2026-10-09
+[<img src="assets/webmcp-deverlopers.png" alt="awesome-webmcp" height="80" style="border-radius: 16px;">](https://github.com/webfuse-com/awesome-webmcp) ⭐ 150 | 🐛 3 | 📅 2026-11-27
 
-**Building with the Web?** Check out [awesome-webmcp](https://github.com/webfuse-com/awesome-webmcp) ⭐ 151 | 🐛 19 | 📅 2026-10-09 - a curated list of awesome things related to the WebMCP W3C standard.
+**Building with the Web?** Check out [awesome-webmcp](https://github.com/webfuse-com/awesome-webmcp) ⭐ 150 | 🐛 3 | 📅 2026-11-27 - a curated list of awesome things related to the WebMCP W3C standard.
 
 </div>
 
@@ -35,29 +35,31 @@ AI assistant by Anthropic for complex reasoning, code generation, and analysis t
 
 ### 🧠 Current Models (2026)
 
-* **Claude Fable 5.1** (Sep 1, 2026) -  Anthropic's most capable widely released model, for demanding reasoning and long-horizon agentic work, or when Opus 5.5 at higher effort still falls short. Substantially better than Fable 5 on coding, scientific research, and long-context problem-solving, while costing \~25% less on typical workloads (up to 45% on agentic tasks) thanks to cheaper cache reads (2.5% of base input price). Thinking is always on. **Claude Mythos 5.1** is the same model with more permissive safeguards for vetted cybersecurity and life-sciences professionals. [Announcement](https://www.anthropic.com/claude-fable-and-mythos-5-1) | [Docs](https://platform.claude.com/docs/en/models/fable-5-1/overview) | [System Card](https://www.anthropic.com/claude-fable-5-1-mythos-5-1-system-card)
-* **Claude Opus 5.5** (Sep 22, 2026) -  The model to start with for most workloads. Performs at the level of Fable 5.1 on most coding, computer use, and knowledge work at 40% less than Opus 5, with \~30% faster output. Much less likely to take hard-to-reverse actions and more resistant to prompt injection. Thinking is always on (adaptive); default effort is `medium`. Zero data retention is available. [Announcement](https://www.anthropic.com/news/claude-opus-5-5) | [Migration guide](https://platform.claude.com/docs/en/models/opus-5-5/migration-guide) | [System Card](https://www.anthropic.com/claude-opus-5-5-system-card)
+* **Claude Fable 5.2** (Nov 9, 2026) -  Anthropic's most capable widely released model, for the hardest reasoning and long-horizon agentic work. Beats Fable 5.1 and Opus 5.5 on Anthropic's headline evals (FrontierSWE v2 69.9% vs 56.3% for Fable 5.1, Humanity's Last Exam with tools 74.2%, OSWorld 2.1 89.3%), with up to 30% faster output than Fable 5.1 and a lower price. **Claude Mythos 5.2** is the same model with more permissive safeguards for vetted cybersecurity and life-sciences organizations. [Announcement](https://www.anthropic.com/claude-fable-and-mythos-5-2) | [System Card](https://www.anthropic.com/document/claude-fable-5-2-mythos-5-2-system-card)
+* **Claude Opus 5.5** (Sep 22, 2026) -  The model to start with for most workloads. Performed at the level of Fable 5.1 on most coding, computer use, and knowledge work at 40% less than Opus 5, with \~30% faster output. Much less likely to take hard-to-reverse actions and more resistant to prompt injection. Thinking is always on (adaptive); default effort is `medium`. Zero data retention is available. [Announcement](https://www.anthropic.com/news/claude-opus-5-5) | [Migration guide](https://platform.claude.com/docs/en/models/opus-5-5/migration-guide) | [System Card](https://www.anthropic.com/claude-opus-5-5-system-card)
 * **Claude Sonnet 5.5** (Sep 28, 2026) -  The best combination of speed and intelligence. A clear upgrade over Sonnet 5: 30%+ faster output, up to 30% cheaper per task because it uses fewer tokens, and 70.6% on Terminal-Bench 4.0. Adaptive thinking with default effort `high`. [Announcement](https://www.anthropic.com/claude-sonnet-5-5) | [Docs](https://platform.claude.com/docs/en/models/sonnet-5-5/overview) | [System Card](https://www.anthropic.com/claude-sonnet-5-5-system-card)
-* **Claude Haiku 4.5** (Oct 2025) -  Still the fastest model with near-frontier intelligence. Perfect for high-volume, real-time, and sub-agent tasks. [Announcement](https://www.anthropic.com/news/claude-haiku-4-5)
+* **Claude Haiku 5.5** (Oct 7, 2026) -  The cheapest, fastest small Claude yet: 1M context, \~75% cheaper to run than Haiku 4.5 on average, and a big capability jump (OSWorld 2.1 72.4% vs 15.7%, Humanity's Last Exam 45.9% vs 10.2%). Made for high-volume, real-time and sub-agent work. [Announcement](https://www.anthropic.com/news/claude-haiku-5-5) | [System Card](https://www.anthropic.com/claude-haiku-5-5-system-card)
 
 **Key specs (API):**
 
-* Fable 5.1: `claude-fable-5-1` • $10/$50 per MTok • 1M context / 128K max output
+* Fable 5.2: `claude-fable-5-2` • $8/$40 per MTok • 1M context / 128K max output
 * Opus 5.5: `claude-opus-5-5` • $4/$20 per MTok • 1M context / 128K max output
 * Sonnet 5.5: `claude-sonnet-5-5` • $2/$10 per MTok • 1M context / 128K max output
-* Haiku 4.5: `claude-haiku-4-5` • $1/$5 per MTok • 200K context / 64K max output
+* Haiku 5.5: `claude-haiku-5-5` • from $0.10/$0.50 per MTok (higher above 100K-token prompts) • 1M context / 128K max output
 
 Model IDs from the 4.6 generation onward are dateless but still pinned snapshots, not evergreen pointers. See [Model IDs and versioning](https://platform.claude.com/docs/en/about-claude/models/model-ids-and-versions). Full comparison: [Models overview](https://platform.claude.com/docs/en/models/overview) | [Pricing](https://platform.claude.com/docs/en/about-claude/pricing)
 
 **Previous generations (still active)**
 
-* **Claude Fable 5** (Jun 9, 2026) -  First Fable model: state-of-the-art on nearly all tested benchmarks at launch, thinking always on, with **Claude Mythos 5** as its safeguards-lifted variant (Project Glasswing). Superseded by Fable 5.1. [Announcement](https://www.anthropic.com/news/claude-fable-5-mythos-5) | [System Card](https://www.anthropic.com/claude-fable-5-mythos-5-system-card)
+* **Claude Fable 5.1** (Sep 1, 2026) -  Cheaper, stronger follow-up to Fable 5 (cache reads at 2.5% of base input price), with **Claude Mythos 5.1** as its safeguards-lifted variant. Superseded by Fable 5.2. [Announcement](https://www.anthropic.com/claude-fable-and-mythos-5-1) | [System Card](https://www.anthropic.com/claude-fable-5-1-mythos-5-1-system-card)
+* **Claude Fable 5** (Jun 9, 2026) -  First Fable model: state-of-the-art on nearly all tested benchmarks at launch, thinking always on, with **Claude Mythos 5** as its safeguards-lifted variant (Project Glasswing). Superseded by Fable 5.1 and 5.2. [Announcement](https://www.anthropic.com/news/claude-fable-5-mythos-5) | [System Card](https://www.anthropic.com/claude-fable-5-mythos-5-system-card)
 * **Claude Opus 5** (Jul 24, 2026) -  Made thinking on by default, supported the full `low` to `max` effort ladder, and dropped the minimum cacheable prompt to 512 tokens. Superseded by Opus 5.5. [Announcement](https://www.anthropic.com/news/claude-opus-5) | [System Card](https://www.anthropic.com/claude-opus-5-system-card)
 * **Claude Sonnet 5** (Jun 30, 2026) -  First Sonnet with the `xhigh` effort level and high-resolution vision; introduced the newer tokenizer to the Sonnet line (\~30% more tokens than Sonnet 4.6). Superseded by Sonnet 5.5. [Announcement](https://www.anthropic.com/news/claude-sonnet-5) | [System Card](https://www.anthropic.com/claude-sonnet-5-system-card)
 * **Claude Opus 4.8** (May 28, 2026) -  Highly autonomous, strong on long-horizon agentic work, knowledge work, and memory, with clearer and warmer writing than 4.7. Introduced **Dynamic Workflows** in Claude Code (plan work, run hundreds of parallel subagents in one session, verify before returning), effort control on claude.ai, and mid-conversation system messages via the Messages API. Was the fallback model for Fable 5 refusals. [Announcement](https://www.anthropic.com/news/claude-opus-4-8) | [What's new](https://platform.claude.com/docs/en/about-claude/models/whats-new-claude-4-8) | [System Card](https://www.anthropic.com/claude-opus-4-8-system-card)
 * **Claude Opus 4.7** (Apr 16, 2026) -  Introduced high-resolution vision (images up to \~3.75 MP / 2,576px long edge), the `xhigh` effort level, and task budgets. [Announcement](https://www.anthropic.com/news/claude-opus-4-7) | [System Card](https://www.anthropic.com/claude-opus-4-7-system-card)
 * **Claude Opus 4.6** (Feb 5, 2026) -  Introduced the 1M token context window and adaptive thinking. [Announcement](https://www.anthropic.com/news/claude-opus-4-6) | [System Card](https://www.anthropic.com/claude-opus-4-6-system-card)
 * **Claude Sonnet 4.6** (Feb 17, 2026) -  The previous speed/cost balance pick before the Sonnet 5 line. [Announcement](https://www.anthropic.com/news/claude-sonnet-4-6)
+* **Claude Haiku 4.5** (Oct 2025) -  The previous small model; superseded by Haiku 5.5. [Announcement](https://www.anthropic.com/news/claude-haiku-4-5)
 
 **Migrating?** Extended thinking with a fixed `budget_tokens`, the sampling parameters (`temperature`/`top_p`/`top_k`), and last-assistant-turn prefills all return a 400 on the Claude 5 family. Use [adaptive thinking](https://platform.claude.com/docs/en/build-with-claude/adaptive-thinking) plus the [effort parameter](https://platform.claude.com/docs/en/build-with-claude/effort) instead, and structured outputs in place of prefills. Full list: [Migration guide](https://platform.claude.com/docs/en/about-claude/models/migration-guide).
 
@@ -71,29 +73,29 @@ Model IDs from the 4.6 generation onward are dateless but still pinned snapshots
 
 **Official Client SDKs** -  Full feature parity: messages, tools, streaming, caching, computer use.
 
-* [anthropic-sdk-python](https://github.com/anthropics/anthropic-sdk-python) ⭐ 4,114 | 🐛 249 | 🌐 Python | 📅 2026-11-24 -  Python SDK with async support and type hints.
-* [anthropic-sdk-typescript](https://github.com/anthropics/anthropic-sdk-typescript) ⭐ 2,192 | 🐛 117 | 🌐 TypeScript | 📅 2026-11-24 -  TypeScript/JavaScript SDK for Node.js and browsers.
-* [anthropic-sdk-go](https://github.com/anthropics/anthropic-sdk-go) ⭐ 1,253 | 🐛 54 | 🌐 Go | 📅 2026-11-24 -  Go SDK with idiomatic design.
-* [anthropic-sdk-java](https://github.com/anthropics/anthropic-sdk-java) ⭐ 393 | 🐛 4 | 🌐 Kotlin | 📅 2026-11-24 -  Java/Kotlin SDK with modern features.
+* [anthropic-sdk-python](https://github.com/anthropics/anthropic-sdk-python) ⭐ 4,120 | 🐛 253 | 🌐 Python | 📅 2026-11-24 -  Python SDK with async support and type hints.
+* [anthropic-sdk-typescript](https://github.com/anthropics/anthropic-sdk-typescript) ⭐ 2,193 | 🐛 116 | 🌐 TypeScript | 📅 2026-11-24 -  TypeScript/JavaScript SDK for Node.js and browsers.
+* [anthropic-sdk-go](https://github.com/anthropics/anthropic-sdk-go) ⭐ 1,252 | 🐛 54 | 🌐 Go | 📅 2026-11-24 -  Go SDK with idiomatic design.
+* [anthropic-sdk-java](https://github.com/anthropics/anthropic-sdk-java) ⭐ 391 | 🐛 4 | 🌐 Kotlin | 📅 2026-11-24 -  Java/Kotlin SDK with modern features.
 * [anthropic-sdk-ruby](https://github.com/anthropics/anthropic-sdk-ruby) ⭐ 378 | 🐛 19 | 🌐 Ruby | 📅 2026-11-24 -  Ruby SDK.
 * [anthropic-sdk-csharp](https://github.com/anthropics/anthropic-sdk-csharp) ⭐ 348 | 🐛 40 | 🌐 C# | 📅 2026-11-24 -  C#/.NET SDK (Beta).
-* [anthropic-sdk-php](https://github.com/anthropics/anthropic-sdk-php) ⭐ 201 | 🐛 16 | 🌐 PHP | 📅 2026-11-24 -  PHP SDK (Beta).
+* [anthropic-sdk-php](https://github.com/anthropics/anthropic-sdk-php) ⭐ 200 | 🐛 16 | 🌐 PHP | 📅 2026-11-24 -  PHP SDK (Beta).
 
 **Agent SDKs** -  Build custom autonomous agents with Claude Code capabilities.
 
-* [claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) ⭐ 8,646 | 🐛 688 | 🌐 Python | 📅 2026-11-25 -  Python Agent SDK. [Docs](https://platform.claude.com/docs/en/agent-sdk/overview)
-* [claude-agent-sdk-typescript](https://github.com/anthropics/claude-agent-sdk-typescript) ⭐ 1,904 | 🐛 256 | 🌐 Shell | 📅 2026-11-25 -  TypeScript Agent SDK.
+* [claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) ⭐ 8,656 | 🐛 692 | 🌐 Python | 📅 2026-11-25 -  Python Agent SDK. [Docs](https://platform.claude.com/docs/en/agent-sdk/overview)
+* [claude-agent-sdk-typescript](https://github.com/anthropics/claude-agent-sdk-typescript) ⭐ 1,910 | 🐛 256 | 🌐 Shell | 📅 2026-11-25 -  TypeScript Agent SDK.
 
 **Starters**
 
-* [Claude Cookbook](https://github.com/anthropics/claude-cookbooks) ⭐ 55,266 | 🐛 396 | 🌐 Jupyter Notebook | 📅 2026-11-20 -  Official notebooks and recipes for common patterns (RAG, tool use, Skills, MCP).
-* [Claude Quickstarts](https://github.com/anthropics/claude-quickstarts) ⭐ 21,278 | 🐛 259 | 🌐 Python | 📅 2026-11-06 -  Ready-to-deploy example apps.
+* [Claude Cookbook](https://github.com/anthropics/claude-cookbooks) ⭐ 55,325 | 🐛 398 | 🌐 Jupyter Notebook | 📅 2026-11-20 -  Official notebooks and recipes for common patterns (RAG, tool use, Skills, MCP).
+* [Claude Quickstarts](https://github.com/anthropics/claude-quickstarts) ⭐ 21,370 | 🐛 259 | 🌐 Python | 📅 2026-11-06 -  Ready-to-deploy example apps.
 
 ### ☁️ Cloud Providers
 
-**Official access to Claude models through cloud providers** (all carry the current lineup: Fable 5.1 / Opus 5.5 / Sonnet 5.5)
+**Official access to Claude models through cloud providers** (all carry the current lineup: Fable 5.2 / Opus 5.5 / Sonnet 5.5 / Haiku 5.5)
 
-* **[Amazon Bedrock](https://aws.amazon.com/bedrock/anthropic/)** -  Fully managed access to the latest Claude models (Fable 5.1, Opus 5.5, Sonnet 5.5, Haiku 4.5). Claude 5 models are served through the Messages-API Bedrock endpoint and take an `anthropic.` ID prefix (e.g. `anthropic.claude-opus-5-5`). Supports cross-region inference, latency optimizations, fine-tuning, agents, guardrails, and deep AWS integration. (Note: Managed Agents and Anthropic server-side tools are not available on Bedrock — use Claude API + tool use there.)
+* **[Amazon Bedrock](https://aws.amazon.com/bedrock/anthropic/)** -  Fully managed access to the latest Claude models (Fable 5.2, Opus 5.5, Sonnet 5.5, Haiku 5.5). Claude 5 models are served through the Messages-API Bedrock endpoint and take an `anthropic.` ID prefix (e.g. `anthropic.claude-opus-5-5`). Supports cross-region inference, latency optimizations, fine-tuning, agents, guardrails, and deep AWS integration. (Note: Managed Agents and Anthropic server-side tools are not available on Bedrock — use Claude API + tool use there.)
 * **[Claude Platform on AWS](https://platform.claude.com/docs/en/build-with-claude/claude-platform-on-aws)** -  Anthropic-operated access via AWS infrastructure: SigV4 auth, IAM access control, AWS Marketplace billing, and same-day API parity with the first-party API. Model IDs are the bare first-party strings (no `anthropic.` prefix) — not the same thing as Bedrock.
 * **[Google Cloud Vertex AI Model Garden](https://cloud.google.com/products/model-garden/claude)** -  Deploy Claude models with provisioned throughput, prompt caching, batch predictions, grounding, and enterprise compliance (FedRAMP High). Great for building agents with Google Cloud tools.
 * **[Microsoft Azure AI Model Catalog (Anthropic Publisher)](https://ai.azure.com/catalog/publishers/anthropic)** -  Claude models via the AI Model Catalog. Supports serverless deployment, agent building, tool integration, fine-tuning, and billing through existing Azure agreements.
@@ -104,6 +106,8 @@ Model IDs from the 4.6 generation onward are dateless but still pinned snapshots
 
 * [Transparency Hub](https://www.anthropic.com/transparency) -  Overview of safety evaluations and improvements across models.
 * [All System Cards](https://www.anthropic.com/system-cards) -  Index of all model system cards.
+  * [Claude Fable 5.2 & Mythos 5.2 System Card](https://www.anthropic.com/document/claude-fable-5-2-mythos-5-2-system-card) -  Capability and safety report (Nov 2026).
+  * [Claude Haiku 5.5 System Card](https://www.anthropic.com/claude-haiku-5-5-system-card) -  Capability and safety report (Oct 2026).
   * [Claude Sonnet 5.5 System Card](https://www.anthropic.com/claude-sonnet-5-5-system-card) -  Capability and safety report (Sep 2026).
   * [Claude Opus 5.5 System Card](https://www.anthropic.com/claude-opus-5-5-system-card) -  Capability and safety report (Sep 2026).
   * [Claude Fable 5.1 & Mythos 5.1 System Card](https://www.anthropic.com/claude-fable-5-1-mythos-5-1-system-card) -  Capability and safety report (Sep 2026).
@@ -141,7 +145,7 @@ Open standard (Linux Foundation) for connecting Claude to tools, repos, database
 * [MCP official site](https://modelcontextprotocol.io/) -  Spec, SDKs, and quickstart.
 * [Introduction to MCP](https://anthropic.skilljar.com/introduction-to-model-context-protocol) -  Official Anthropic course: build MCP servers and clients from scratch in Python.
 * [MCP: Advanced Topics](https://anthropic.skilljar.com/model-context-protocol-advanced-topics) -  Sampling, notifications, transports.
-* [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers#readme) ⭐ 98,524 | 🐛 5,502 | 📅 2026-11-25 -  Curated community list of MCP servers.
+* [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers#readme) ⭐ 98,568 | 🐛 5,487 | 📅 2026-11-26 -  Curated community list of MCP servers.
 
 ***
 
@@ -149,12 +153,12 @@ Open standard (Linux Foundation) for connecting Claude to tools, repos, database
 
 **Awesome lists and collections maintained by the community**
 
-* [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers#readme) ⭐ 98,524 | 🐛 5,502 | 📅 2026-11-25 -  Curated list of Model Context Protocol (MCP) servers for extending Claude's capabilities.
-* [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code#readme) ⭐ 58,844 | 🐛 1,308 | 🌐 Python | 📅 2026-11-26 -  Slash-commands, CLAUDE.md files, CLI tools, and workflows for Claude Code.
-* [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents#readme) ⭐ 26,786 | 🐛 10 | 🌐 Shell | 📅 2026-11-02 -  100+ specialized AI agents for full-stack development maintained by the community.
-* [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills#readme) ⭐ 15,940 | 🐛 965 | 📅 2026-04-28 -  Resources and tools for customizing AI workflows with Claude Skills.
-* [BehiSecc/awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills#readme) ⭐ 10,490 | 🐛 415 | 📅 2026-11-02 -  Categorized skills for document handling, development tools, data analysis, and more.
-* [langgptai/awesome-claude-prompts](https://github.com/langgptai/awesome-claude-prompts#readme) ⭐ 5,602 | 🐛 11 | 📅 2026-11-14 -  Collection of prompt examples designed to improve Claude interactions.
+* [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers#readme) ⭐ 98,568 | 🐛 5,487 | 📅 2026-11-26 -  Curated list of Model Context Protocol (MCP) servers for extending Claude's capabilities.
+* [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code#readme) ⭐ 58,917 | 🐛 1,307 | 🌐 Python | 📅 2026-11-27 -  Slash-commands, CLAUDE.md files, CLI tools, and workflows for Claude Code.
+* [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents#readme) ⭐ 26,800 | 🐛 10 | 🌐 Shell | 📅 2026-11-02 -  100+ specialized AI agents for full-stack development maintained by the community.
+* [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills#readme) ⭐ 15,956 | 🐛 968 | 📅 2026-04-28 -  Resources and tools for customizing AI workflows with Claude Skills.
+* [BehiSecc/awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills#readme) ⭐ 10,497 | 🐛 446 | 📅 2026-11-02 -  Categorized skills for document handling, development tools, data analysis, and more.
+* [langgptai/awesome-claude-prompts](https://github.com/langgptai/awesome-claude-prompts#readme) ⭐ 5,604 | 🐛 11 | 📅 2026-11-14 -  Collection of prompt examples designed to improve Claude interactions.
 * [vijaythecoder/awesome-claude-agents](https://github.com/vijaythecoder/awesome-claude-agents#readme) ⭐ 4,409 | 🐛 46 | 📅 2025-10-30 -  Team of specialized AI agents for building features and debugging.
 
 ***
@@ -163,7 +167,7 @@ Open standard (Linux Foundation) for connecting Claude to tools, repos, database
 
 ### 🎨 IDE Extensions
 
-* [Claude Code Chat](https://github.com/andrepimenta/claude-code-chat#readme) ⭐ 1,088 | 🐛 177 | 🌐 JavaScript | 📅 2026-09-18 -  Beautiful native chat interface for Claude Code within VS Code with conversation history and MCP support.
+* [Claude Code Chat](https://github.com/andrepimenta/claude-code-chat#readme) ⭐ 1,088 | 🐛 178 | 🌐 JavaScript | 📅 2026-09-18 -  Beautiful native chat interface for Claude Code within VS Code with conversation history and MCP support.
 * [Claude Code Theme](https://github.com/ashwingopalsamy/claude-code-theme) ⭐ 22 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-22 -  Claude-inspired VS Code theme pack with dark/light/high-contrast and brand variants, semantic token tuning, and ANSI-optimized terminal colors.
 * [Claude Code for VS Code](https://marketplace.visualstudio.com/items?itemName=Anthropic.claude-code) -  Official Anthropic extension. Inline diffs, `@`-mentions, plan review, conversation history, and full Claude Code integration.
 * [Claude Code for JetBrains (Beta)](https://plugins.jetbrains.com/plugin/27310-claude-code-beta-) -  Official Anthropic plugin for IntelliJ, PyCharm, WebStorm, and other JetBrains IDEs.
@@ -181,7 +185,7 @@ Open standard (Linux Foundation) for connecting Claude to tools, repos, database
 ### 🖥️ Desktop
 
 * [Claude Desktop](https://claude.ai/download) -  Official Claude desktop app for macOS and Windows. Includes a dedicated **Code** tab (GUI for Claude Code) and **Cowork** for non-technical users.
-* [Claude Desktop Debian](https://github.com/aaddrick/claude-desktop-debian#readme) ⭐ 5,548 | 🐛 10 | 🌐 Shell | 📅 2026-11-24 -  Unofficial Claude desktop app for Debian/Linux.
+* [Claude Desktop Debian](https://github.com/aaddrick/claude-desktop-debian#readme) ⭐ 5,547 | 🐛 5 | 🌐 Shell | 📅 2026-11-27 -  Unofficial Claude desktop app for Debian/Linux.
 
 ***
 
@@ -210,8 +214,8 @@ Open standard (Linux Foundation) for connecting Claude to tools, repos, database
 
 ### 📖 Community Guides
 
-* [40+ Claude Code Tips](https://github.com/ykdojo/claude-code-tips#readme) ⭐ 10,394 | 🐛 7 | 🌐 HTML | 📅 2026-09-25 -  Tips for getting the most out of Claude Code, including a custom status line script, cutting the system prompt in half, using Gemini CLI as Claude Code's minion, and Claude Code running itself in a container. Also includes the dx plugin for GitHub Actions debugging, conversation cloning, and handoffs.
-* [Claude Code Everything You Need to Know](https://github.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know#readme) ⭐ 3,730 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-26 -  Ultimate all-in-one guide to mastering Claude Code. Covers setup, prompt engineering, commands, hooks, workflows, automation, integrations, MCP servers, and the BMAD method.
+* [40+ Claude Code Tips](https://github.com/ykdojo/claude-code-tips#readme) ⭐ 10,400 | 🐛 7 | 🌐 HTML | 📅 2026-09-25 -  Tips for getting the most out of Claude Code, including a custom status line script, cutting the system prompt in half, using Gemini CLI as Claude Code's minion, and Claude Code running itself in a container. Also includes the dx plugin for GitHub Actions debugging, conversation cloning, and handoffs.
+* [Claude Code Everything You Need to Know](https://github.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know#readme) ⭐ 3,731 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-27 -  Ultimate all-in-one guide to mastering Claude Code. Covers setup, prompt engineering, commands, hooks, workflows, automation, integrations, MCP servers, and the BMAD method.
 * [My Experience With Claude Code After 2 Weeks of Adventures](https://sankalp.bearblog.dev/my-claude-code-experience-after-2-weeks-of-usage/) - Part 1: Real-world lessons on using a `TODO.md` file to keep Claude on track, managing costs, and why it often outperforms Cursor for complex refactors.
 * [A Guide to Claude Code 2.0 and getting better at using coding agents](https://sankalp.bearblog.dev/my-experience-with-claude-code-20-and-how-to-get-better-at-using-coding-agents/#setup) - Part 2: A deep dive into the 2.0 update, focusing on the "Agent Manager" mindset, context engineering, and using sub-agents for larger codebases.
 
@@ -231,4 +235,4 @@ Open standard (Linux Foundation) for connecting Claude to tools, repos, database
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
